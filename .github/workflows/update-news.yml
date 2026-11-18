@@ -65,6 +65,7 @@ jobs:
             echo "No changes."
           else
             git commit -m "Update semiconductor news and Korean summaries"
+            git pull --rebase origin main
             git push
           fi
 
