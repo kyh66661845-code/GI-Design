@@ -4,7 +4,23 @@
   "max_items_per_source": 30,
   "max_ai_articles_per_run": 10,
   "max_body_characters": 18000,
-  "approved_body_domains": [],
+  "approved_body_domains": [
+    "commerce.gov",
+    "nist.gov",
+    "energy.gov",
+    "federalregister.gov",
+    "gov.texas.gov",
+    "georgia.org",
+    "nccommerce.com",
+    "news.samsung.com",
+    "news.skhynix.com",
+    "newsroom.intel.com",
+    "pr.tsmc.com",
+    "investors.micron.com",
+    "gwangju.go.kr",
+    "jeonnam.go.kr",
+    "jeonbuk.go.kr"
+  ],
   "sources": [
     {
       "id": "us-federal",
