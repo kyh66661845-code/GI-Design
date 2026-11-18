@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T18:05:00.641384Z",
+  "updated_at": "2026-11-18T18:05:30.405667Z",
   "collection_method": "Google News RSS / domain-restricted search",
   "retention_days": 30,
   "source_results": [
@@ -36,14 +36,14 @@
       "name": "삼성전자·현대자동차 공식 뉴스",
       "category": "기업·프로젝트",
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     {
       "id": "company-sk-lg",
       "name": "SK하이닉스·LG 공식 뉴스",
       "category": "기업·프로젝트",
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     {
       "id": "korean-us-en",
@@ -71,7 +71,7 @@
       "name": "전라남도",
       "category": "한국 서남권",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "id": "jeonbuk",
@@ -89,7 +89,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-18T07:32:33Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -110,7 +110,7 @@
       "publisher": "Georgia Economic Development",
       "published_at": "2026-11-17T16:32:10Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -131,7 +131,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-17T07:20:45Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -152,7 +152,7 @@
       "publisher": "commerce.gov",
       "published_at": "2026-11-17T04:20:46Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -173,7 +173,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-17T02:33:43Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -194,7 +194,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-17T01:23:28Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -215,7 +215,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-16T22:59:56Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -236,7 +236,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-16T22:59:54Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -257,7 +257,7 @@
       "publisher": "Georgia Economic Development",
       "published_at": "2026-11-16T18:36:49Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -278,7 +278,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-16T17:21:16Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -299,7 +299,7 @@
       "publisher": "LG Corp",
       "published_at": "2026-11-16T15:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -320,7 +320,7 @@
       "publisher": "LG Corp",
       "published_at": "2026-11-16T15:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -341,7 +341,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-16T14:39:43Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -362,7 +362,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-16T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -383,7 +383,7 @@
       "publisher": "commerce.gov",
       "published_at": "2026-11-16T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -398,13 +398,34 @@
       ]
     },
     {
+      "id": "04c8898d24a462fd4030a0e8",
+      "title": "시군별 기업정보 - jeonnam.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGU4ZlZGUzFWZUV1ZEhsOFhpZkxodXQwRnZGT195WnZ2TjdHTm1nLXdlRmo4YklqWHFibGpIeGpEemVySWJ3R3dITHpRaDg5MXNjaGVVaTkyOUg0WTBxelV0Y0JrN0tsUklORUl1WHdNUVlabVVHMWRCR3VkY0NpX0FLcjBBTUl6M3lxZnRpSHZWdVZuUGJqMkZlTlBLQTJWeVphXw?oc=5",
+      "publisher": "jeonnam.go.kr",
+      "published_at": "2026-11-14T04:35:26Z",
+      "first_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
+      "categories": [
+        "한국 서남권"
+      ],
+      "source_ids": [
+        "jeonnam"
+      ],
+      "source_names": [
+        "전라남도"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
       "id": "645126520b8a9495fac4b4be",
       "title": "IT Robot Software Automation Specialist - hyundai.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHZ5dkM2c1FhUllwWldXOE9IZFhxSWF4R212ekxqQ3M1TUJjZVRObjBQZzRveHFSSnZvU3lFM2pNVEJsMHdreDV2c0k1Mm5TS0pWMURkeDFXNnJiUjBnZGVob2dUaWNkdmxPN1ZDT2lVcVRRdzlwNUU3QlFGcV9wYm9mWlZuUDl3aVNNMk92VDU5dFpfU0tGOFNrRUxNWmxyNnJWc21DTjlMU1NsSU5pdl9qczJ0Z28?oc=5",
       "publisher": "hyundai.com",
       "published_at": "2026-11-13T17:15:55Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -425,7 +446,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-13T17:08:36Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -446,7 +467,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-13T17:08:36Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -467,7 +488,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-13T17:08:36Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -488,7 +509,7 @@
       "publisher": "Georgia Economic Development",
       "published_at": "2026-11-13T15:12:52Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -509,7 +530,7 @@
       "publisher": "Office of the Texas Governor (.gov)",
       "published_at": "2026-11-13T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -530,7 +551,7 @@
       "publisher": "samsung.com",
       "published_at": "2026-11-13T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -551,7 +572,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-12T19:13:39Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -572,7 +593,7 @@
       "publisher": "hyundai.com",
       "published_at": "2026-11-12T18:28:24Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -593,7 +614,7 @@
       "publisher": "samsung.com",
       "published_at": "2026-11-12T17:25:46Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -614,7 +635,7 @@
       "publisher": "Georgia Economic Development",
       "published_at": "2026-11-12T14:48:50Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -635,7 +656,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-12T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -656,7 +677,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-12T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -677,7 +698,7 @@
       "publisher": "LG Corp",
       "published_at": "2026-11-11T15:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -698,7 +719,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-10T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -719,7 +740,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-10T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -740,7 +761,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-09T19:11:51Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -761,7 +782,7 @@
       "publisher": "농식품인력개발원",
       "published_at": "2026-11-09T11:50:32Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -782,7 +803,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-09T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -803,7 +824,7 @@
       "publisher": "hyundai.com",
       "published_at": "2026-11-09T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -824,7 +845,7 @@
       "publisher": "LG Corp",
       "published_at": "2026-11-08T15:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -839,13 +860,34 @@
       ]
     },
     {
+      "id": "61bd9aaffe894e96d329b73c",
+      "title": "전라남도 동부지역본부 - 사진 | - jeonnam.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTUFRNl9ERFhIQmpNRFFVQ0ZRMGlaZGtYRURYN2JiVThwZXZfcWNYM0xOdUl3dE1SWjQ5ZTFWLUplem1TMElhRVI3T2ZJWmVxWEJyTDhRUDBQQXVxZHZvZWdiZnpCNzg4UzZoUU5ldVFJaU92RHpmUXhBZ25zbjFqcDRsWjZ4aHAtZHU1WU9pajNBRERBWjlCQ0FxTGNQWXF1Wk5wVjZnVXJwVm00VjVN?oc=5",
+      "publisher": "jeonnam.go.kr",
+      "published_at": "2026-11-08T14:10:25Z",
+      "first_seen_at": "2026-11-18T18:05:30.405667Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
+      "categories": [
+        "한국 서남권"
+      ],
+      "source_ids": [
+        "jeonnam"
+      ],
+      "source_names": [
+        "전라남도"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
       "id": "558fd4232fcfba39839294c1",
       "title": "General Assembly Launch Team Specialist - hyundai.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0ZfRjdmSzVvMTROTUlfZzJSNXRocXJFbEhBbmJfbUVZb2l3M0dpYkZPVHZzR2RfTk5jdnBkTVpNNm5HMnQ2Qk5UcWR4aUZmTmJ5Tmx3cHRRX3Q2T013UXA0T0hVNk91TS1jdm9hREZyRml5OGpJNjEtSzFUUVZRaFRRTXNqSmVkMzhKM2Q4OGpGYWN0RkRKQ0pqV25ydV9SbVJYZnpPOUFLb1JCWUY3YkdpbE1keGc?oc=5",
       "publisher": "hyundai.com",
       "published_at": "2026-11-08T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -866,7 +908,7 @@
       "publisher": "광주관광",
       "published_at": "2026-11-07T11:55:46Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -887,7 +929,28 @@
       "publisher": "광주관광",
       "published_at": "2026-11-07T07:38:11Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
+      "categories": [
+        "한국 서남권"
+      ],
+      "source_ids": [
+        "gwangju"
+      ],
+      "source_names": [
+        "광주광역시"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "b600cd7f4f993a3d3568d031",
+      "title": "역사-상세화면 - 광주관광",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93M1dibGNjaXZ3RW5RTWE3bndZa0dNd2hsQW1EWlJUMVFYVU9qeUYzY3o3dzFjS0RhV0RuT1lZaVZ2T1hPcXNGOTJYalRaLWFhbUxRQUZzbUJyUjRUb1RyZFlxMzVienkwdUhLZVdiai13TlBZX2Z6NjZ4SGQ4QQ?oc=5",
+      "publisher": "광주관광",
+      "published_at": "2026-11-07T00:57:36Z",
+      "first_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -904,11 +967,11 @@
     {
       "id": "db33b9bedc9669ad1f6afe50",
       "title": "전라남도 동부지역본부 - 분야별 기업정보 | - dongbu.jeonnam.go.kr",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZUQ3eS1RTzRYMWtXY0p0bDhCZ2xZYzlfRDJla2JpeVN4aDVVLWtWeXJCV09ScTNQSE5HYTRVYkJUT1U1OUdSNkV0TmQ4NGNiQWE0T01fcHZZeEx5akVXSHh3SnNmN0hXV3FkZXZ5d0hVSXJ0YkxlSTFVeGxMX2YyVHRxaUZXcU12YVZVSFpUSC1zUVhJN1NMdGZGcHU5YUhXRER5S0sxQVFlWndoM09mdm9TUTNzQ2lOMldnUlJPUWJaRlhuaGhmb05vdlFvVVQxS3Rfd2t2ZzNqaHBOc3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSDlvelRaeFdxUFlkbDlfV195NklzSDg0R3ZhNXU0N3paUG1nVDlPZW9JanNjMHZhY0Vmd2RjWkF6NUh6a25ZeUpMNVBpRHRBZjhiZEc1VnhEM3g4OHlubHM3T1NwVzdtQlNLVGhxMDE0WDNkZUlSajd3VWl2a0JDeUsycGlmQnNtNV9xd2pMTV9sODBIbjhHR2pWMHhXQjhZR1QwX2pZaDJ4eTRMZXdfUXphbXF6d0lNQ2xpLVRSdDJZazFjQ25CS041TkxGdGJpUUlmaU5IeUpHOUx6aGc?oc=5",
       "publisher": "dongbu.jeonnam.go.kr",
-      "published_at": "2026-11-07T06:39:33Z",
+      "published_at": "2026-11-06T08:11:06Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -923,34 +986,13 @@
       ]
     },
     {
-      "id": "b600cd7f4f993a3d3568d031",
-      "title": "역사-상세화면 - 광주관광",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93M1dibGNjaXZ3RW5RTWE3bndZa0dNd2hsQW1EWlJUMVFYVU9qeUYzY3o3dzFjS0RhV0RuT1lZaVZ2T1hPcXNGOTJYalRaLWFhbUxRQUZzbUJyUjRUb1RyZFlxMzVienkwdUhLZVdiai13TlBZX2Z6NjZ4SGQ4QQ?oc=5",
-      "publisher": "광주관광",
-      "published_at": "2026-11-07T00:57:36Z",
-      "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
-      "categories": [
-        "한국 서남권"
-      ],
-      "source_ids": [
-        "gwangju"
-      ],
-      "source_names": [
-        "광주광역시"
-      ],
-      "kinds": [
-        "공식 기관"
-      ]
-    },
-    {
       "id": "35b891a27957e391677703e9",
       "title": "Heightened Requirements for Foreign Importers of Record - Federal Register (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWncwQjdXckx6cTNVUldRYWFnUUhTdmdlTG5lNmhTak9rdnBoZlI1b0NOaUtNeFJFLWZYMTFGejNWVTVuZmJtN01FNG9uRjRaeUcyclBwUHE3dzEyV05mQ1hkdm5PMXB5dGdGd0ZZTzVUZ2t2LVBsRzZkU096VFY3T0lUeHVuNWwwbDlNYkI1ejljM0hpR2JEazB1RFU1emZDRUUxRm42bHNnd0MwR3dSSjEydTZoRTJYOXAw?oc=5",
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-06T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -971,7 +1013,7 @@
       "publisher": "Georgia Economic Development",
       "published_at": "2026-11-06T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -992,7 +1034,7 @@
       "publisher": "hyundai.com",
       "published_at": "2026-11-06T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1013,7 +1055,7 @@
       "publisher": "dongbu.jeonnam.go.kr",
       "published_at": "2026-11-05T08:30:43Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1034,7 +1076,7 @@
       "publisher": "samsung.com",
       "published_at": "2026-11-05T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -1055,7 +1097,7 @@
       "publisher": "hyundai.com",
       "published_at": "2026-11-04T13:36:22Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1076,7 +1118,7 @@
       "publisher": "광주관광",
       "published_at": "2026-11-04T08:16:08Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1097,7 +1139,7 @@
       "publisher": "hyundai.com",
       "published_at": "2026-11-04T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1118,7 +1160,7 @@
       "publisher": "광주관광",
       "published_at": "2026-11-04T06:18:43Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1139,7 +1181,7 @@
       "publisher": "광주관광",
       "published_at": "2026-11-04T05:17:55Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1160,7 +1202,7 @@
       "publisher": "광주관광",
       "published_at": "2026-11-04T03:51:25Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1181,7 +1223,28 @@
       "publisher": "광주관광",
       "published_at": "2026-11-04T03:49:57Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
+      "categories": [
+        "한국 서남권"
+      ],
+      "source_ids": [
+        "gwangju"
+      ],
+      "source_names": [
+        "광주광역시"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "95b0f061790168645fb2c69d",
+      "title": "광주 감성과 힐링 한바퀴 | 상세 | 기타 - 광주관광",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2tmLXRBRUF3bUdrdXZkYm9CWGJuRHU4d3JiQzkwTG5EaFlyNnZucDlXVnI3akNiaHI4WkEyUlpVdVVPSW5YWWZTOEFBd1dHZWVSOUZOcjN2d2tib3l5czlCOHB3TzVBUk9VZVN1RXl0TW1wc2tvRnZJQ0pvRHFaai1XejFOVkVtWE1DZFN2NUNJZXFFYzRqUkZTeHN6R1huakc3aS1zOXV2T2lkaXl2S1pJLWUzWHlBVHRBTVR2R3ZTeTBGWjJRblRvaTJYUQ?oc=5",
+      "publisher": "광주관광",
+      "published_at": "2026-11-04T03:37:38Z",
+      "first_seen_at": "2026-11-18T18:05:30.405667Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1202,7 +1265,7 @@
       "publisher": "광주관광",
       "published_at": "2026-11-04T01:40:02Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1223,7 +1286,7 @@
       "publisher": "광주관광",
       "published_at": "2026-11-03T23:37:20Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1244,7 +1307,7 @@
       "publisher": "광주관광",
       "published_at": "2026-11-03T22:11:32Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1265,7 +1328,7 @@
       "publisher": "광주관광",
       "published_at": "2026-11-03T20:39:44Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1286,7 +1349,7 @@
       "publisher": "LG Corp",
       "published_at": "2026-11-03T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1307,7 +1370,7 @@
       "publisher": "LG Corp",
       "published_at": "2026-11-03T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1322,13 +1385,34 @@
       ]
     },
     {
+      "id": "8cbe36c8bf23c2b6adbb295e",
+      "title": "Battery Engineering Design - Design Engineer I/II - hyundai.com",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQRkdUTXRYbGN6cU9KSktvSFlrMTdnY2t5UVNDZVpFdzFWMS0xVEtSbTdFN3lCSFQ3SWh4OG9SQUVwa1NoZEJqUl9DODFBYUNLb1d6Z21QM0lsWkFfaGRrbFZvVFBSRXVra29LR0lLQWZVRnVWb1NBc2hlMXBIVE1tekx5QlRQUGZveVdjUDZ4RTZpdmNneFJHRG1TY3pFVXh6cnhxWVVBdlYxa3JnYm9DUmRzVlZrWmxXT2I4MVA5V0ZPQUwzTnZ0ZlJJcEhOdlpBUWhWZjRCdW5NdDRDM1RRZEJrVTJFU2dWY21NNmJsYzA1TWNfaGlKQzY4WF9YckNnRXVoT3dSNElmdVhjWXZ0S2x5dUpXai1SV1YxWDJ1d2JGNmRXNlp6Q2JWWGp2QQ?oc=5",
+      "publisher": "hyundai.com",
+      "published_at": "2026-11-03T06:08:39Z",
+      "first_seen_at": "2026-11-18T18:05:30.405667Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
+      "categories": [
+        "기업·프로젝트"
+      ],
+      "source_ids": [
+        "company-samsung-hyundai"
+      ],
+      "source_names": [
+        "삼성전자·현대자동차 공식 뉴스"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
       "id": "a75d14822eb6f1a2a34d4057",
       "title": "「소년의 길」, K-민주주의 인문 라디오 투어 | 상세 | 행사안내 - 광주관광",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmVvdDY0SjlISHJ3VWFBMGlUazA4cy1KdVd4NTVRczA5ZzBSMnJrdXhNOFFxWmNDcGZ1SkVDVG5zQnFnV2VSWkdxeWE3ZkgwRktmSUx6NlpqM1czbmstNjhoc1p2MWx6MDRnNDJLQXo5NlNDMzd3a005ODB3VXNFcEtNRUZtaWNfVE1HcU5UR1M2SGxmcTE0bDdTS1Q4ZmNIRlZFNHZCdldXcllMYWFMNTFUS0lIaGE4cTdfeQ?oc=5",
       "publisher": "광주관광",
       "published_at": "2026-11-03T02:29:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1337,6 +1421,27 @@
       ],
       "source_names": [
         "광주광역시"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "21660d02b54c3af4601260ee",
+      "title": "Texas Named Top Business Climate In America For 4th Year In A Row - Office of the Texas Governor (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzJodVRyQVJ3anRpT1JHQ21PQ3dOU1MtUDhGRHRHdFQ0S2tCQV9USW1ZTklUSW5qT255ZUhSYXVIeU5HVVJPTnB1SW9iY2RnSE9zT0lQWFdPSnI4dGVBYi13emFkaDdHa0o2QVpUSEI5ODUzaGlDSWRHMS1udElELVFJOVQxeF8zcnZjWGZhNEpOVVd2aXo5TXBHZVNEdw?oc=5",
+      "publisher": "Office of the Texas Governor (.gov)",
+      "published_at": "2026-11-03T00:52:08Z",
+      "first_seen_at": "2026-11-18T18:05:30.405667Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
+      "categories": [
+        "미국 주별"
+      ],
+      "source_ids": [
+        "texas"
+      ],
+      "source_names": [
+        "텍사스 주지사실"
       ],
       "kinds": [
         "공식 기관"
@@ -1370,7 +1475,7 @@
       "publisher": "hyundai.com",
       "published_at": "2026-10-31T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1391,7 +1496,7 @@
       "publisher": "samsung.com",
       "published_at": "2026-10-31T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -1412,7 +1517,7 @@
       "publisher": "Office of the Texas Governor (.gov)",
       "published_at": "2026-10-30T23:04:31Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -1427,34 +1532,13 @@
       ]
     },
     {
-      "id": "04c8898d24a462fd4030a0e8",
-      "title": "시군별 기업정보 - jeonnam.go.kr",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDlPd01sVVBSX3BrV2hxSTcxN2R6bEFTdk1EVERlOG1qMVVJZjhlQTRJR0prQ1ZHV1dELTN6dkc2eFgyeUhRdjlSSlAtaFZFRmdfdm5fSkFZN3FPajQtWm1IR3pzR3QzQTlpSjdUNS1zLTNrNUpIZG12RXJyN0ZNcXNqRklYbGs1UzA4NG50dDVfSUhrODBwRXc5UTUwR2NEMEdDOA?oc=5",
-      "publisher": "jeonnam.go.kr",
-      "published_at": "2026-10-30T17:59:04Z",
-      "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
-      "categories": [
-        "한국 서남권"
-      ],
-      "source_ids": [
-        "jeonnam"
-      ],
-      "source_names": [
-        "전라남도"
-      ],
-      "kinds": [
-        "공식 기관"
-      ]
-    },
-    {
       "id": "0df1e3db3d1058d5a38291f8",
       "title": "GDEcD Trade Reception with Georgia's International Trade Reps hosted by Global Atlanta and Partners - Georgia Economic Development",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPekVhSkVIZ0VkclQzbl9iWC1pR1pibnBJcHlaQVFreXdHOEk0X3M1VWhCanN5ZHB2NDA1N25OWWtibU1LQjNLbDRaQmMyME9CVzJVRUtRSHlkbE5oVko5TlpGVWVtQ2RyQjB4aUtTVHU1ZVlNVk9kanVZTnRpS1VYSkczNmw4b1pYWTkzVVdEUlJjUDJBS1FZMFoyYmpxTjZ0S3RfYnpyQ2R1SHphUlV2d292enNaeUh3?oc=5",
       "publisher": "Georgia Economic Development",
       "published_at": "2026-10-30T16:28:34Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -1469,13 +1553,34 @@
       ]
     },
     {
+      "id": "783e33492fe7bae60ed11119",
+      "title": "전라남도 동부지역본부 - 분야별 기업정보 | - jeonnam.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmtOZ0FPNXVmWTVqSFpCRXJtTUUtMk5VVzZrWGZWQlBsMkRoamx1Y21sMHQ3OXdTVFlfZzkzQ1R0SDRuYUtJWjl3Y2wzajdLN0Y5Y0JQcmZkMGdiZDlPbllZdms1SVhzeUk2T0JGc1h2eUoxcTlpMVZXVTFDamZkdk5tRjZpcFdZX040TmNteUJkd1M1U2VGVFhzLVprbEt4anYxOQ?oc=5",
+      "publisher": "jeonnam.go.kr",
+      "published_at": "2026-10-30T08:42:21Z",
+      "first_seen_at": "2026-11-18T18:05:30.405667Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
+      "categories": [
+        "한국 서남권"
+      ],
+      "source_ids": [
+        "jeonnam"
+      ],
+      "source_names": [
+        "전라남도"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
       "id": "244ca4b722a2d87bd39f6dc0",
       "title": "Hyundai Motor Group Advances Plans for Saemangeum AI Data Center - hyundai.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdW5CRUtIWVB3WFotV0FEaVV3cWhZWlV5RzRmbEhjSk4tNFJmUTE2LTYyTEFua2RGUjFyTlMyZUpMVHJVRDBFWjlkNFdYUGhiS2M2ZUJiQkZvcldTdEw1ZTVXLXlXQ2JNTVZEQ0pKRmFMVDl6ME9hODVfNEJfeTcweWhOcVpSMXN6MTc5ZWR2N2RORFpCdVFueWFseGhQaTZmMGJ6am9OMDVBMFdzTHZhbzVVdDhiQ0w2aEF6cnhB?oc=5",
       "publisher": "hyundai.com",
       "published_at": "2026-10-30T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1496,7 +1601,7 @@
       "publisher": "SK hynix",
       "published_at": "2026-10-30T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1517,7 +1622,7 @@
       "publisher": "LG Corp",
       "published_at": "2026-10-30T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1538,7 +1643,7 @@
       "publisher": "SK hynix",
       "published_at": "2026-10-29T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1559,7 +1664,7 @@
       "publisher": "samsung.com",
       "published_at": "2026-10-29T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -1580,7 +1685,7 @@
       "publisher": "hyundai.com",
       "published_at": "2026-10-29T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -1601,7 +1706,7 @@
       "publisher": "hyundai.com",
       "published_at": "2026-10-29T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -1622,7 +1727,7 @@
       "publisher": "광주관광",
       "published_at": "2026-10-29T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1643,7 +1748,7 @@
       "publisher": "Office of the Texas Governor (.gov)",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -1664,7 +1769,7 @@
       "publisher": "hyundai.com",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1685,7 +1790,7 @@
       "publisher": "SK hynix",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1706,7 +1811,7 @@
       "publisher": "LG Corp",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1727,7 +1832,7 @@
       "publisher": "hyundai.com",
       "published_at": "2026-10-27T13:35:11Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1748,7 +1853,7 @@
       "publisher": "광주미디어아트플랫폼",
       "published_at": "2026-10-27T12:05:46Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1769,7 +1874,7 @@
       "publisher": "Office of the Texas Governor (.gov)",
       "published_at": "2026-10-26T18:57:27Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -1790,7 +1895,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-10-26T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -1811,7 +1916,7 @@
       "publisher": "Georgia Economic Development",
       "published_at": "2026-10-24T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -1832,7 +1937,7 @@
       "publisher": "Office of the Texas Governor (.gov)",
       "published_at": "2026-10-23T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -1853,7 +1958,7 @@
       "publisher": "Georgia Economic Development",
       "published_at": "2026-10-23T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -1874,7 +1979,7 @@
       "publisher": "SK hynix",
       "published_at": "2026-10-23T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1895,7 +2000,7 @@
       "publisher": "LG Corp",
       "published_at": "2026-10-22T15:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -1958,7 +2063,7 @@
       "publisher": "광주미디어아트플랫폼",
       "published_at": "2026-10-21T08:19:47Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 서남권"
       ],
@@ -1979,7 +2084,7 @@
       "publisher": "hyundai.com",
       "published_at": "2026-10-21T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -2000,7 +2105,7 @@
       "publisher": "LG Corp",
       "published_at": "2026-10-21T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -2021,7 +2126,7 @@
       "publisher": "Office of the Texas Governor (.gov)",
       "published_at": "2026-10-21T02:48:31Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -2042,7 +2147,7 @@
       "publisher": "Office of the Texas Governor (.gov)",
       "published_at": "2026-10-20T21:18:59Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -2063,7 +2168,7 @@
       "publisher": "Office of the Texas Governor (.gov)",
       "published_at": "2026-10-20T14:36:35Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -2084,7 +2189,7 @@
       "publisher": "Office of the Texas Governor (.gov)",
       "published_at": "2026-10-20T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "미국 주별"
       ],
@@ -2105,7 +2210,7 @@
       "publisher": "samsung.com",
       "published_at": "2026-10-20T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -2114,6 +2219,27 @@
       ],
       "source_names": [
         "한국 기업 미국 진출 — 국문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "7a8823d4166a8d28d1a39a64",
+      "title": "Battery Engineering Design - Senior Design Release Engineer - hyundai.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY210VTdjSHNKblRhSHJKbjhGc29IQjhsLVJPQktkaHl0a2dxcHUtTzVVb0JvQXpRRnQ5b0U0ZmF1eWxMVW9YcE1pWDNjTkV1ZTZwcUZVc3loV0I1U0VLaWp5V1lNRk1JTWw3djJCYmFsZ0Jibnl5X0VYeHlSSi1fdjdVUnl0d1ZrMklVVGZHaGhzMDRFR1JKVmh4QW9reWxpbmszZm55MmVOa2xjQ0lKQTZxQU9wRy1qUThuQTRlTXBYaWNXV2dhNnRuNEpLRDFGRm1udmo2dVV6d3c?oc=5",
+      "publisher": "hyundai.com",
+      "published_at": "2026-10-20T07:00:00Z",
+      "first_seen_at": "2026-11-18T18:05:30.405667Z",
+      "last_seen_at": "2026-11-18T18:05:30.405667Z",
+      "categories": [
+        "기업·프로젝트"
+      ],
+      "source_ids": [
+        "company-samsung-hyundai"
+      ],
+      "source_names": [
+        "삼성전자·현대자동차 공식 뉴스"
       ],
       "kinds": [
         "기업 공식"
