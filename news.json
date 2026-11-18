@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T18:07:04.025017Z",
+  "updated_at": "2026-11-18T19:13:51.125206Z",
   "collection_method": "Google News RSS / domain-restricted search",
   "retention_days": 30,
   "source_results": [
@@ -8,21 +8,21 @@
       "name": "미국 연방기관",
       "category": "미국 연방정부",
       "status": "ok",
-      "count": 23
+      "count": 28
     },
     {
       "id": "texas",
       "name": "텍사스 주지사실",
       "category": "미국 주별",
       "status": "ok",
-      "count": 13
+      "count": 3
     },
     {
       "id": "georgia",
       "name": "조지아 경제개발부",
       "category": "미국 주별",
       "status": "ok",
-      "count": 8
+      "count": 0
     },
     {
       "id": "north-carolina",
@@ -32,56 +32,112 @@
       "count": 0
     },
     {
-      "id": "company-samsung-hyundai",
-      "name": "삼성전자·현대자동차 공식 뉴스",
+      "id": "company-project",
+      "name": "반도체 기업 공식 발표",
       "category": "기업·프로젝트",
       "status": "ok",
-      "count": 17
-    },
-    {
-      "id": "company-sk-lg",
-      "name": "SK하이닉스·LG 공식 뉴스",
-      "category": "기업·프로젝트",
-      "status": "ok",
-      "count": 17
+      "count": 6
     },
     {
       "id": "korean-us-en",
-      "name": "한국 기업 미국 진출 — 영문",
+      "name": "한국 기업의 미국 반도체 사업 — 영문",
       "category": "한국 기업의 미국 진출",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "id": "korean-us-ko",
+      "name": "한국 기업의 미국 반도체 사업 — 국문",
+      "category": "한국 기업의 미국 진출",
+      "status": "ok",
+      "count": 15
+    },
+    {
+      "id": "gwangju",
+      "name": "광주광역시 — 반도체",
+      "category": "한국 서남권",
       "status": "ok",
       "count": 0
     },
     {
-      "id": "korean-us-ko",
-      "name": "한국 기업 미국 진출 — 국문",
-      "category": "한국 기업의 미국 진출",
-      "status": "ok",
-      "count": 7
-    },
-    {
-      "id": "gwangju",
-      "name": "광주광역시",
-      "category": "한국 서남권",
-      "status": "ok",
-      "count": 21
-    },
-    {
       "id": "jeonnam",
-      "name": "전라남도",
+      "name": "전라남도 — 반도체",
       "category": "한국 서남권",
       "status": "ok",
-      "count": 10
+      "count": 2
     },
     {
       "id": "jeonbuk",
-      "name": "전북특별자치도",
+      "name": "전북특별자치도 — 반도체",
       "category": "한국 서남권",
       "status": "ok",
-      "count": 1
+      "count": 0
     }
   ],
   "articles": [
+    {
+      "id": "3e91cd0a1d8025e324704ec1",
+      "title": "NIST CSF 2.0 Semiconductor Manufacturing Profile Kick-Off Webinar - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc2liU01UODludlNLQWFPbEVoVWp5cDkzdGxld2tjUmNFYmV5X0lfZmRxYU9oV19mVjlKOUVqSE0wRnQ4Z3pZMGpxNUlGWnpueGpwNlIwa1JRQjVjTUgzaDBhV2NhRFBLMG9XZTd5MTh4ak1xdU1ITlVkSkM3RHNQd2hKemJDRlRsWGQzdkh0QUc5YXRXTmpWUW9idmJjN3k0MGFhY2VkaHdSZlds?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-11-18T10:41:56Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "e6f2bfdb0a60ac6372f3fd78",
+      "title": "Samsung Begins One UI 9.5 Beta Program - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyWkxnX2E3Mksyc1MtQWpHTk5BWjFuTzF5N2JwYTl6RGQyRER2QThiMHlTUTNNWjRONVV2Y1ZXNnRSVHhqc0JwVmF5X090NHpZb1BWX196bnJHdXUxWWJGTjJreFkzSXZ3RG9heGRHZ2RPdUhMVlFZWElB?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-18T09:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "기업·프로젝트"
+      ],
+      "source_ids": [
+        "company-project"
+      ],
+      "source_names": [
+        "반도체 기업 공식 발표"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "b8aa72831ee3539f12d20345",
+      "title": "삼성전자, 갤럭시 S26 시리즈 대상 One UI 9.5 베타 프로그램 운영 – 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPOEZsOGotNWhRa0pKcktTbm13WXdIQXZRbnVTa05YVFQ4YmRzejBVYXJidlpzTjQtUmxtRE5ocW0zU1ZmMFVUYWFvUmdXREFVWmRQdUlMMV8wdHJvdmVGektZUlVZWnI4NWpBNWd5d2ZQaXlmMVpkTE1Wakw0bjh3R1Y0N3hhTzFKYjU4OU5UWkxfSkVfMEtYQUpheVA5cnZDUThaVkgySkNhY2F1aTVCTGE5NnE0VVg5MXRwY3ZNMDdNUlJpUGEwV05rdWh5UlNOeEtfTC13OUZ3MkE4U3k0TXJZUVkyM3lhazRqamlXVjFKaTMyZkUzSmpUajZrQW53SVFWaUlMSTFaZExVYjBXUG55aTZBcVhILXVrejFIN0NJSV93aHQ5SWFQRmRJWm15Z3FqdGZPTzVYejg5SF8zSDl3?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-18T09:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-ko"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 국문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
     {
       "id": "7e7d06abe0a19604fab85771",
       "title": "Automatic Enrollment Requirements Under Section 414A - Federal Register (.gov)",
@@ -125,6 +181,90 @@
       ]
     },
     {
+      "id": "a4880243accea2bb8d6f3945",
+      "title": "NVD-CVE-2026-109148 - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hNHdDRVBaX0VjQlA0QVJwNEtIQmF4ck5XY0J0YWZnMTJ2UENCVWtURk5ZS1d3T2NERzBPTVRMM2ZfSjViaUVSUGVleHo5bFA4VjRac0I1d1lQSGNM?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-11-17T10:26:38Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "c2ec229265418fea4abfe375",
+      "title": "NVD-CVE-2026-109154 - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wc1duVU5GTEhOUjBHNWZkMHRNRWEwaUpYRXBfYTc5NlFETFNHNVRMN0Q5dnQ4MGIzSTZqX2lkQ19VUWZ0WG1GemZTOE5Qam80VlA5S2lfVEZyLUZo?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-11-17T10:26:37Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "fcb669953f3982fe3c62639e",
+      "title": "NVD-CVE-2026-109151 - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZeC1ncXJUbDhueG1FQnhCcXdHYS1EaEhDSHV2bGxMMVc2MlZEaDItUHh3QzJZSWJXdWE4RWV5UnVMZ2NHY2NDLUpTeFFTYVVwZnJnTHFGYXE3ekI1?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-11-17T10:26:37Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "b250181bc87a266a2f7746d8",
+      "title": "NVD-CVE-2026-109138 - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fQTRkV1VrV3pTdGVENFVjMms3NVY5SllEcnVJN25VQnp4elRzMkxINWM2NG9BdWJBNVoySGM2TUtXYURLSzZRUkx1WXdoZHN3UjlpckRweGJzVnNx?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-11-17T10:26:37Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
       "id": "df075a23c6e4aa1d3aa51293",
       "title": "Discontinuing Premium Collection From Policyholders on Certain National Service Life Insurance Policies - Federal Register (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUWlBSTE5Q0k4M0p2U0JUN1BjRTJCazJoYVZhemlzSlUyaGxGZGtZSlpwWDVqbk5FeFhvNHgzcmM4ZVB0c2gwMzhFcDJEMFRackF6d3JaY3BaSUI4UmZJREphUFBkUS1rMU5uRFdnZ09hYWh4UFhvZmVfSWlJNDRYLWpFb1Vla3FsTTRxQkJJTmgzaGZOQlRNTld6cmJYWlh4Q055STVlYjd4SllKbDhJdnFxbEM3ZWFyRFFoM28xYjRfamk2czliaHp2eDFUaDBhdWgtckdpMlB3X0w2cHJjcU5sWW9ieGdsc0NkN1RLWQ?oc=5",
@@ -152,7 +292,7 @@
       "publisher": "commerce.gov",
       "published_at": "2026-11-17T04:20:46Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -173,7 +313,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-17T02:33:43Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -236,7 +376,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-16T22:59:54Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -356,6 +496,51 @@
       ]
     },
     {
+      "id": "617a0fe31ed64c18473acdd0",
+      "title": "- Office of the Texas Governor (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOamVCX04xWFh0blNiU3VxYXpzQ1FlTGxLM2hiZ3lZVTVfekF1cjZJMXQ5Q0kycmdkRnBZeEtuZEVLSXQ0TXpZMUlRb1FtUmpvdng4T3dRclFpbmdFY2g2WWFVeFYyMi1UYUxRUi04WmJpaG1TZGhOWXhUZGtkWjNYZHkwamNVV1E1c3B4ZHJHUkQ0eHZ4cEctNFVxTDNlQmdjMDQ2TUhkQzQycEZVTk9ZV1FIdEJHNm1LcTQtbzVWdlRTOFgxOEZMLUxBNzJ6Zw?oc=5",
+      "publisher": "Office of the Texas Governor (.gov)",
+      "published_at": "2026-11-16T09:55:50Z",
+      "first_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 주별"
+      ],
+      "source_ids": [
+        "texas"
+      ],
+      "source_names": [
+        "텍사스 주지사실"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "27e53c8c7b30f1d00c8ee3df",
+      "title": "Samsung’s Latest Products Recognised by Consumer Technology Association Ahead of CES 2027 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTk1ZmlQU2NDVGNlNERtQzNYNFlyN29wOVdxbnlqOVNUNm9SVmE0eUhRVnA3bVltczRPbEhYaUxpNUdNYWZTemRUQUJYM3I4VVJiU0Q2blJ2YW5UaDZUaGZqWng0TF81c1QybjBDa0VNaEJtdUhONFVWS29SZThmSUQ1c1ZwZUlfZVBINHVtNC1WU1U2UW5nRjFvRkM1X3VPVHh0OXY5aVZDdnJsSEVMZk15X3ltOHc?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-16T09:18:40Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "기업·프로젝트",
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "company-project",
+        "korean-us-en"
+      ],
+      "source_names": [
+        "반도체 기업 공식 발표",
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
       "id": "67596fb817d90d999ba7b2ca",
       "title": "Restoring Flexibility To Support Head Start Program Access - Federal Register (.gov)",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUFuU0taMHc0OXd1MDBVUnh5TjlSNUcxUGdlcl90YWJGeFFsdDA0bDJDOVd0T2NDNV9nbVhOckpya1hURGRzbjlrQTQ5S180UVJZZjhiX0UtVHNTanRVVm1ReURkZWc1VDVmRmJxQ1lKNDYxMElwNUtlYzVOU25odERZZG1nbVlGVmlLVzZlNzV6WEpTX1NFSXYweDVSZG5yRWxtcFp5NE1KdVFBWnZLaGlBNnpZX1dIT3FESXdLRQ?oc=5",
@@ -383,7 +568,7 @@
       "publisher": "commerce.gov",
       "published_at": "2026-11-16T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -395,6 +580,114 @@
       ],
       "kinds": [
         "공식 기관"
+      ]
+    },
+    {
+      "id": "7a2c41fe0a63409bf998c7cc",
+      "title": "Bureau of Industry and Security - commerce.gov",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iUm9VT3NrS2Z0T0ZQNldqWEd4cVpYWFlDMHZsM3hFdUFnMEtkdUdwdUljcWowc05XajhzLUdqRDJkbU5SMnpYMVJpcEx5V083YUFTVjY1cUVwTkwt?oc=5",
+      "publisher": "commerce.gov",
+      "published_at": "2026-11-16T08:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "b1cd392bd6ba6845e6c18c12",
+      "title": "[2026 다카르 청소년올림픽] 삼성전자, 갤럭시 기술로 차세대 올림피언들의 도전을 세상과 잇다 – 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcHRlRzB4QWFhWXRrS1Bjd2ptUVlLeUEyRlVNVTU3N0dCXzJ4OXhGbWZTRThXMnpuSC1CcnBPOUVSZjl0UTZFMUR4X0VBUXJMVTBlRF9rclAxNUVETEJMUkNNZjEwaUFQWkR0a0pRM1hETll0UUZqYVo3NHJXNjAtVHR2VXI4RmtFUUQ3V1Z6X1pzME8wOE9XOUROajlyalJGN0w0NkZvdU9PV1p6Q09qcW83a3pFQkFGb1BtdmlpT2s1SDZJWFF5SVcyRUZobHpKUWdIMDRSbEZyMHcyR0c5R0hBZXFmVFhkQ2tFWWdPQ0w5YVVnclo4c3FFQnlmbDBCTDAwemQteFdQbE5qMlRfUWVXVlZKSWdvM1FKVUNPTjUydWNOT2I2R3F3M1ZzMkVwaThyZWgxal9rbHFQNUg4?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-15T23:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-ko"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 국문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "ab0897fc506bc4672ea15bf9",
+      "title": "Samsung Newsroom India - All the latest news, key facts and inspiring stories about Samsung Electronics. - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XM3lPZ19pVmJLV0ZLLW9LcU5YVERrV1VxeFUwU0lNOVkzdGQ3blIyV1lsUEJPSWpvYWZ0OWlBQW0zQjlIS0tFZ0l0THBjVGU5YjUtUDNIQlRGbDZ2MXZnY0R5bkw?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-15T01:55:36Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "d22a19f516a9a67df29c5292",
+      "title": "Samsung’s Latest Products Recognized by Consumer Technology Association Ahead of CES 2027 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXlGcThxVWE5Sno4WFlLUnpzWWVPRFZxTEZVaEl0NXhxYXhBc0dsMEFvYndJOTJPRDJodWtQYmphODM3STdIMlAwR25HV09zZnBYUGh4R3hWaUl6UXVURGlCQVRQTW5rM2RWTm93S2wxZmhCaG16UzhCZVZ1QWFHUmtId0Q0VUlxaEl2SUxST3A?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-14T23:04:21Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "기업·프로젝트",
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "company-project",
+        "korean-us-en"
+      ],
+      "source_names": [
+        "반도체 기업 공식 발표",
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "87156fc614665f92a4978502",
+      "title": "삼성전자, CES 2027 혁신상 수상 – 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDZ4bE52a2xfM3ZvdW5vdUMtMk1OY3hwQXJLbVJkNC0xNlRzaW1udHpGYlB5U1lycXVJWlZwT2NWY2trX0VhMGlCaC1zdWhHWGxXcU45UEpwSFVtX3JfN1ZVUnM4T2M4N0xpRGlzdW02Vm9va2kwbTFCNkdzTWctZkJlLXV4X0dqVDdfRTRJelVsaXhIYmZOMFFWbHJpNEdnRjlEQk5kZWNIQ0ptX05tWjVlZVZYVUQzUW9QYg?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-14T23:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-ko"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 국문"
+      ],
+      "kinds": [
+        "기업 공식"
       ]
     },
     {
@@ -524,6 +817,27 @@
       ]
     },
     {
+      "id": "002281fabe1d23658aedbd8f",
+      "title": "Department of Commerce Announces Finalization of CHIPS R&D Award with Atom Computing Inc. - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2JJRi1lRk5YS3NEMk5oLTlTc25jNXJFY0hwRGduVkJHdVhZd041WEZkWW4wZWFUNzQ1ZzE1MUUxSVB2WnpWZUkxQ0l5QnFQN1FabDc2SzBHa1dJWHZCWUdPbnh2WVZaM2dMc21HQnROYlJOTTE0TFR0WldvNTJjXzlJX1Zrc1J0WDI5RGNUbFFnSl82VXhQT1NXYkE4dXRJVnJQNHRNbnJFVUE5QmxQMVZENUVXd1NsMlE?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-11-13T12:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
       "id": "dca402d916a9812cef7d478c",
       "title": "Governor Abbott Renews Severe Storm Disaster Proclamation In November 2026 - Office of the Texas Governor (.gov)",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3pGZVBJbEVOR0lTN1d2MXlRank0d0x6Z2trR2g1SnV6NHJ2ZzhxSFlBUUJXSGFJd1J2Vnd1andFUEpDZUd4ME40Wml3WURORnVhdkRwcEtVZmNZMkp5ajczVmhhaWQwb2VaLW1VemU2elRBVHdXWFdhcGdobDZQbTJRc3RwaGt5UGdVOFZtWm9ncTBFWDZBeGJvUmszcjQyb3NLQlRhaHlxTURtNVE?oc=5",
@@ -551,7 +865,7 @@
       "publisher": "samsung.com",
       "published_at": "2026-11-13T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -559,7 +873,29 @@
         "korean-us-ko"
       ],
       "source_names": [
-        "한국 기업 미국 진출 — 국문"
+        "한국 기업 미국 진출 — 국문",
+        "한국 기업의 미국 반도체 사업 — 국문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "08fe7f37c6aebf917bd3f93b",
+      "title": "Everyday Experiences Elevated: Samsung Announces the new Galaxy A18 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTFEWG5BZEN6WGRPVXpTRjRodllWaEdVcXdDaFlzdVk2Rjh2SnRDazBuUWZGWXU3bHdRamhpbFV1VmtPZW83TXBjQ0lfU0YyOXlDYlFaUXExTENUaUtCVThyMnlqOHppTTgxOTRtRjhOVGwwQS0zaUl1Ym9SYXZlaXdZOGVuOTkxLUJ4Mlc1WHpuZTl5LU9jamxB?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-13T07:46:57Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "기업·프로젝트"
+      ],
+      "source_ids": [
+        "company-project"
+      ],
+      "source_names": [
+        "반도체 기업 공식 발표"
       ],
       "kinds": [
         "기업 공식"
@@ -581,6 +917,28 @@
       ],
       "source_names": [
         "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "8138db5f60678052a29fc7e5",
+      "title": "전라남도 동부지역본부 - 시군별 기업정보 | - dongbu.jeonnam.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWx5TFZjaU5ZajE4M0dPVUt4XzZ3eVQxb1F5Z2NTZXljM3lLd1ZwWUpESXlyRWF0V0RrRDJpSjAxMVZXYXdDZ3oyUXRKMi0zSjN6Q3RXM1Q5a2Vfc1hwWWlrYVMxOFZSM1JXOUhZVE5fZzZ4SmNTVDNUZjNZbS1mSC1teFVWaGJLUFRyM2o5TGVBdTRNWm9WdHEzeXhoZnU5bTRDS1BFMA?oc=5",
+      "publisher": "dongbu.jeonnam.go.kr",
+      "published_at": "2026-11-12T18:54:07Z",
+      "first_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 서남권"
+      ],
+      "source_ids": [
+        "jeonnam"
+      ],
+      "source_names": [
+        "전라남도",
+        "전라남도 — 반도체"
       ],
       "kinds": [
         "공식 기관"
@@ -614,18 +972,44 @@
       "publisher": "samsung.com",
       "published_at": "2026-11-12T17:25:46Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
-        "기업·프로젝트"
+        "기업·프로젝트",
+        "한국 기업의 미국 진출"
       ],
       "source_ids": [
-        "company-samsung-hyundai"
+        "company-project",
+        "company-samsung-hyundai",
+        "korean-us-en"
       ],
       "source_names": [
-        "삼성전자·현대자동차 공식 뉴스"
+        "반도체 기업 공식 발표",
+        "삼성전자·현대자동차 공식 뉴스",
+        "한국 기업의 미국 반도체 사업 — 영문"
       ],
       "kinds": [
         "기업 공식"
+      ]
+    },
+    {
+      "id": "a9ca317fe9094c19e7de2a6b",
+      "title": "Genesis Mission National Science and Technology Challenges - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQlZCWUtpZXRZMFc1cDF6anlGUFQyS001LVFtSHBCZUpVR0xodGFQSHAwbnhEUjhrMnd0UDZhZUoxVlNLVm4ydHQ2S0FVLUMyS1FJZjM5U1ZfRlFMVGFfWFhsZ3E3dlNTM3F2eERoYl8wMFh2NFd4NGtzQmprQkdTRE9NYS01N0pkcmJmVEt2ZWk1d2drZ2c1aXUzU3gweVNXU2V5ZDZXTExIWmRESEQ3TmVfVXpoUTRpQjE1VGJ1bw?oc=5",
+      "publisher": "Department of Energy (.gov)",
+      "published_at": "2026-11-12T15:46:11Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
       ]
     },
     {
@@ -647,6 +1031,27 @@
       ],
       "kinds": [
         "공식 기관"
+      ]
+    },
+    {
+      "id": "6ed58cf25c75b0e7d1c90a60",
+      "title": "삼성전자, 구글·젠틀몬스터·워비파커와 협업한 인텔리전트 아이웨어 전격 공개 - 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQQUhpWE9JRTVnQXBQZUVBM1BuT0w1VDkwZ2ZfaTJROXNGckppSm1zVTV1d2tnX3ZldHBkd2NicWRSR0NvTlk3MlJkcHEwek92d3g4UVJXX3paQVRRNzJYdEFSM3dDR09BU2JwZ0RvcWg4ZndBVV9Fa2dBUFlPOTBvQ3FlVXVUTFRwNkE3OEYwNDJDQWpMMnB5MVJVaXFQbmV0dTVSNjF3VmQyVXB3Sl82TVBFbzluMlE1WFBwM2Z1bU1vVzlCbEJxWU1pMlhEdG9pMEd1VHRFYmVoTGNacGN5MW9jLWJVWEpVU3NaZTZKZ3kyNXNzRFFSSDlaUHFfNUpJOVpBNFNweklmWk9XMVJGSEZvelFSUllPZTFtRWk4bkdoV0dTM2lRdVY3RFB2OGUxbzJpUURob213S21tZVhsa19qOWtRZw?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-12T14:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-ko"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 국문"
+      ],
+      "kinds": [
+        "기업 공식"
       ]
     },
     {
@@ -692,6 +1097,27 @@
       ]
     },
     {
+      "id": "8e25e9cb74c5ac4e0d729478",
+      "title": "All the latest news, key facts and inspiring stories about Samsung Electronics. - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mSXZhdDVIbmw4U3hKb2VVVnhlRC1ZU094aDVWY2RXaTlMODVjRXdUTmRPVzAwWFRGdElpeEFTbW9jRGZjR3lxa2ZpM3JnRnNjNl9pU3F3a01OSHJ0R3R5Q2U4eGo?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-12T06:11:22Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
       "id": "e4dcf41cce0ddf400ff9a3a2",
       "title": "LG Chem Announces Q3 Financial Results - LG Corp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aN2xZOHZkTjhVbHhkOUplODVQYkVDclBsQ2s0TnY2VjBNZmJaYWpXOXN0ZXVqSFFHbGhOYWszS00tTXYzd2RjS3dzOWFYZGZWSXpMYg?oc=5",
@@ -710,6 +1136,69 @@
       ],
       "kinds": [
         "기업 공식"
+      ]
+    },
+    {
+      "id": "25ecef890f91c6b3512aee13",
+      "title": "Samsung Newsroom South Africa - All the latest news, key facts and inspiring stories about Samsung Electronics. - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44UnVvWVpHTjM1Z2FVYXB6aUZPZVo2a2hqRWpfTHRYWGpsbzBRQk9PUUFJY3lLdHJqeUMySlIyQTROYU1CNnY3Z1l1eFlndlU0c1UzMW9zZnNVNTJONWNiVlln?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-11T14:57:03Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "03eb8bae510bf4b15e75824e",
+      "title": "Recentering Microelectronics in America - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTU42cHVXN05tSUFNeUxHVzBLZDdzYnZBLWRqQ1dLWlFiby0xSnZIRV9FZm03bkRJRURsNklRcnNhOFFTVXpvM21Yb1FHV0VFbzdFTzluaWxaQ1QwOEJoZXRhTEo0TzBjd3JqbGgxaTczNlRJNkhGdFRhMmQ3VXEwenUxbGhCZElaMll0SHMxUnYzSWZQMTU4M3B2ekplamc2RFE?oc=5",
+      "publisher": "Department of Energy (.gov)",
+      "published_at": "2026-11-10T18:13:51Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "0f872b0dc2862e35a4617197",
+      "title": "General Plasma Science - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzRGFvVlFCRWh3dEVqN1luaEgxa1YwTjR1bHpvMDBoblliSG1UWWJvNXA4MC1hSkVvQjQ5bmt2RWZxbGhmenlpUFIySGdjMkxpRERjejNUeE1tOE9rMllFQ3NyRU4yRmNw?oc=5",
+      "publisher": "Department of Energy (.gov)",
+      "published_at": "2026-11-10T18:13:51Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
       ]
     },
     {
@@ -741,6 +1230,27 @@
       "published_at": "2026-11-10T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
       "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "eca047e42292a0e933901611",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-OpenGMSL Association - Federal Register (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWFJjbVVYY1kxeXBKeG1ncGREb183Qk4wVnNoLVZ1elZOMTZvMm5IcWZuWXZqRVh5YnM1NVFtd1NSbGNVbHFxZlliU0NEb1Q1OHRYczVXU25XSi1EdWRlVGFKZU5lTWtlQjRRTEdFSldYR1UyeWEtNDg5em1qSTlVNzluUDVBTy1STjNXeGNJMjBURHFmT2tYTDBKWXBUMkV1RzZrbGVaZ2JYVGd4ZHhIUmpKZ09jWG03cVdwclhuR2Jub19ocEFLU1pQeElOVUtVSVRVOTNXV1BFa2lIRkJtbGxoWEd4bmlyTm9jM3AzU3FNUXZyUWhF?oc=5",
+      "publisher": "Federal Register (.gov)",
+      "published_at": "2026-11-09T19:11:52Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -965,6 +1475,27 @@
       ]
     },
     {
+      "id": "04a3fc6db7898475f06e2fe6",
+      "title": "전라남도립도서관 - 전남도서관",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyVV91bkpBaGxQNDlyQVNKMnVlOXR4WW1xS1dzQ214SlFUQjlUVVA0MnJQd1lDR2x5dEdXRXBQNkhYdFBlVlJCR29zWWl2Z1pwN18zVzR0Z2xUbDE4QWxidnFoamQzSURDcWNrbzUwanVHT29paVE?oc=5",
+      "publisher": "전남도서관",
+      "published_at": "2026-11-06T12:29:41Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 서남권"
+      ],
+      "source_ids": [
+        "jeonnam"
+      ],
+      "source_names": [
+        "전라남도 — 반도체"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
       "id": "db33b9bedc9669ad1f6afe50",
       "title": "전라남도 동부지역본부 - 분야별 기업정보 | - dongbu.jeonnam.go.kr",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSDlvelRaeFdxUFlkbDlfV195NklzSDg0R3ZhNXU0N3paUG1nVDlPZW9JanNjMHZhY0Vmd2RjWkF6NUh6a25ZeUpMNVBpRHRBZjhiZEc1VnhEM3g4OHlubHM3T1NwVzdtQlNLVGhxMDE0WDNkZUlSajd3VWl2a0JDeUsycGlmQnNtNV9xd2pMTV9sODBIbjhHR2pWMHhXQjhZR1QwX2pZaDJ4eTRMZXdfUXphbXF6d0lNQ2xpLVRSdDJZazFjQ25CS041TkxGdGJpUUlmaU5IeUpHOUx6aGc?oc=5",
@@ -1049,24 +1580,24 @@
       ]
     },
     {
-      "id": "8138db5f60678052a29fc7e5",
-      "title": "전라남도 동부지역본부 - 시군별 기업정보 | - dongbu.jeonnam.go.kr",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ09BWERsX2hqU1VPRFdMNmdsRmNMaEwwS2t5SnpNd3UwQ0VBNVNXRHdpMU1NbHo4NnFac3NnWVQxV05jNVBFRFdyYnM5Z0tGb01nUGVncDlnSS02VmRCaVFiNlRaWHpCRXVaVUpDV0NNdlY0NFgwWElreTgxZ2Z3Sm1UY1kyNklwNmktby01MFY1UndRcjlwbFZyT2x0VTRLRlI4V0JIei0yQQ?oc=5",
-      "publisher": "dongbu.jeonnam.go.kr",
-      "published_at": "2026-11-05T08:30:43Z",
-      "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "id": "42c262651b465cfc15254beb",
+      "title": "Latest Samsung Devices, Galaxy Buds On and Galaxy SmartTag3, Available Now - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUlJCcmU0Q29uQlRIQ0xocmcyTHJ3YnFJcEgwUXFLZzFYOUdXMDl4SEVMTlkzUkwxX2NfQ25ONlVVMUh4YmZHZ3U1d2cwTnFabl9BZmltWG9vN0dpaDdzbHFRbTE2M01iUlBTd3pBbWgtdTJXVE43TUliM0RxZHBTWFZJLW5zZFY1aklyUWV2LTNrNWVaaXZBeUgwclM?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-06T08:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
-        "한국 서남권"
+        "한국 기업의 미국 진출"
       ],
       "source_ids": [
-        "jeonnam"
+        "korean-us-en"
       ],
       "source_names": [
-        "전라남도"
+        "한국 기업의 미국 반도체 사업 — 영문"
       ],
       "kinds": [
-        "공식 기관"
+        "기업 공식"
       ]
     },
     {
@@ -1076,7 +1607,7 @@
       "publisher": "samsung.com",
       "published_at": "2026-11-05T08:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -1084,10 +1615,32 @@
         "korean-us-ko"
       ],
       "source_names": [
-        "한국 기업 미국 진출 — 국문"
+        "한국 기업 미국 진출 — 국문",
+        "한국 기업의 미국 반도체 사업 — 국문"
       ],
       "kinds": [
         "기업 공식"
+      ]
+    },
+    {
+      "id": "241fe886506ff01fadce02b9",
+      "title": "NVD-CVE-2026-69002 - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lNHBiNHRsa0d3cjNOd2lYQ1ZRV1hlQl9nNFlweURPaFFaR0RfalA4S29iUnlWOEJ0LVlfUjNURmNCak5lLVVrMTc3WGY1eXRQQkJ2R2VUR2Mxem8?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-11-05T03:00:37Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
       ]
     },
     {
@@ -1148,6 +1701,27 @@
       ],
       "source_names": [
         "삼성전자·현대자동차 공식 뉴스"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "d754f6d965b61eb992a09965",
+      "title": "삼성전자, 갤럭시 버즈 ‘청력 체크’ · ‘청력 케어’ 기능 식약처 허가 획득 – 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQZnFSNDgxNDBsOGpBWEl4TWhRWTM0b3Z4N0FVSDhfcnV4T3BkODNhUUs1bTV4ekZGcWJWUGMtLXRxMW5JTkk2M3RXNDhCSVJiaU0wakNFbm8wOFVMMDM3d2FKN2szRU9JNmJWbGZyZG9hcmlFNXhIdVNGVm5rc0lPQld0ZnN4QjdGNkxHTEdHd01ac01ial9mOTJBVl9hVlZTQWxWelJjZlV4eEJPNDlOZUFZQmE0VC1jLVpCVVdZUzFHOWFlUmlicTh4U1VXTEZDNXRCQ3pmcUQwLURwM09Ca3BQUHZabWZ6VWtyYU1oSEJNNk11a0s4SDAyeVNnQXJfTlRsdjdBUXp1Z0EtYnJtUTZ5MUMxcGh3UERidjdxb0VGNnN0aG9fTkNvZDF1ZElHY1RPUUpGZmVTTU1T?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-04T08:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-ko"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 국문"
       ],
       "kinds": [
         "기업 공식"
@@ -1385,6 +1959,27 @@
       ]
     },
     {
+      "id": "d37033ee4204bfc49b30825a",
+      "title": "Upgraded Sleep Apnea Feature Now Available in the U.S. on Galaxy Ring Following Regulatory Approvals from U.S. and Korea - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV2tuSGR4MWJqUm81U1lNOTZuNkJIVGFuR1gtY1VyNHJqcHRXX3FUYndRUlJfcnVJcTVzVWVVbEVnZGR1dUNRVU1KRXprcEtPX095Vlh2QjBlU1RDVzJnV29VdDZYY2xZa1hXcUlxdnZ6cEtKUVliU0Q3TmJFNDVHME9tZDdSbUtINzNHTDFleFYwQXROc2EySVh4WHZBMTVabjYzLXZyRlZpanhQT1BjT3pXYndUdWRsbzRONHhB?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-03T08:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
       "id": "8cbe36c8bf23c2b6adbb295e",
       "title": "Battery Engineering Design - Design Engineer I/II - hyundai.com",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQRkdUTXRYbGN6cU9KSktvSFlrMTdnY2t5UVNDZVpFdzFWMS0xVEtSbTdFN3lCSFQ3SWh4OG9SQUVwa1NoZEJqUl9DODFBYUNLb1d6Z21QM0lsWkFfaGRrbFZvVFBSRXVra29LR0lLQWZVRnVWb1NBc2hlMXBIVE1tekx5QlRQUGZveVdjUDZ4RTZpdmNneFJHRG1TY3pFVXh6cnhxWVVBdlYxa3JnYm9DUmRzVlZrWmxXT2I4MVA5V0ZPQUwzTnZ0ZlJJcEhOdlpBUWhWZjRCdW5NdDRDM1RRZEJrVTJFU2dWY21NNmJsYzA1TWNfaGlKQzY4WF9YckNnRXVoT3dSNElmdVhjWXZ0S2x5dUpXai1SV1YxWDJ1d2JGNmRXNlp6Q2JWWGp2QQ?oc=5",
@@ -1448,6 +2043,48 @@
       ]
     },
     {
+      "id": "ce0b8afeb2958b4ee0a071d9",
+      "title": "Foreign-Trade Zone (FTZ) 17, Notification of Proposed Production Activity; Honeywell Aerospace US LLC; (Aircraft Components); Olathe, Kansas - Federal Register (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWW5wRVVicDFna1A2WW9OcjNybW9ZTmhBUS1WZTNuRWo2Y2ZMd3I5T3o5NmRCZmZuT3lCTWtQRUllbWR4OF9MWTdLNkxHWGt1YUc2S3YtazR0SGhTMWIyblhZRTg1R3NZWnM5UUwxQkotTF9sQzhqUlFZR1U5dmlIalBCYXBPdnQ3YXhnaTA2OEExa3pqdURaaXdYZktKNWtzdkw2cFo3cjExOS1rcWh3bElRMnFySEs5eFJidWUtbEZYTldITnB0RHVpamRMLVNHTVhVd0JwWTlYcHlJMjVyeGJ0V1Z1bDNkVmRncmZzblJfdGM?oc=5",
+      "publisher": "Federal Register (.gov)",
+      "published_at": "2026-11-02T08:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "447ec81bb1810f592260b009",
+      "title": "삼성전자, ‘2026 다카르 청소년올림픽’ 공식 후원 – 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQaC1XbnlUT0NEUm11TWxORGJ2WWRCMHdDSzByN2prM2xyU2dTV1g2QmZPcjFKX19fcTZIUzAzVHVlSlpSNDVFTWNNcVdMcU15QUJVTXZvSlVQRmhuUG1YVzhQMm1iQjVIUmlqNFB5U09hblBmN0hGak1GZmc2Y0J3dnhpR1E4TDR4TWtlcVdlZkVXRzhlVS1oMlBzblc5WWJqNDk2VDRBdW1hSWVHTjlEdkRLU2JXNjg3UmlteEVFcVhKdUQ1TmJHMmdILVgyN2xXMTRlcUhnSlQzeHROVHBJY1ZhSHJ6al9KSm9sWVhUMG1ib0FqSUp4cWxtRTJXX3RnbE1vNmJIeWlqa0VFOF9tSDlza1BzcEJUVkE?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-11-02T08:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-ko"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 국문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
       "id": "af4b91b58c10ae1b889d0f28",
       "title": "SASTF 2026 Biennial Report to the Texas Legislature - Office of the Texas Governor (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSjlrZ2NxWWRuaVhHRkJDcjY4dGtzTm9iRFRvUFpJaU50akJHNFZwRjJ1SEpJTU90MzVoSWNkbDFzQ1ljRDg5NVNrc04wNFhKVVp4QjFGeGQzYjkwalpYQkpnR01sY0hGWExhbDk1Y0JYZklHX1pUb2IwNWphTkRqX3hsSmowMzVmMmhqSmxHWGdrVjRsZWZYRV9IYlMtLVZmQkVWLW1aWGs0M2FTSFVOWUlnRHBJbXl5bUR0Rm9wdVk2ZG4tVUliVDdR?oc=5",
@@ -1496,7 +2133,7 @@
       "publisher": "samsung.com",
       "published_at": "2026-10-31T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -1504,31 +2141,11 @@
         "korean-us-ko"
       ],
       "source_names": [
-        "한국 기업 미국 진출 — 국문"
+        "한국 기업 미국 진출 — 국문",
+        "한국 기업의 미국 반도체 사업 — 국문"
       ],
       "kinds": [
         "기업 공식"
-      ]
-    },
-    {
-      "id": "617a0fe31ed64c18473acdd0",
-      "title": "- Office of the Texas Governor (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWN4eHQ5b3JvaHRubmxtTW42eVRETDhFX0xHYTFtRHJVOURXM0RzZG8wbFk4V0JpWm1sbUV0OHhabFFRcTduMHk1Si1VZGF5LXZqU3pkdHMwYzVjZEdMYl96TnI3N0d5Y0NXUVhrTThtWXZ4U04zR0h1bEtxSVFYUFY2bGVNY3RxcHdYMFo3TFhnUDA2N1BCbWt1dlJtMFluQnc?oc=5",
-      "publisher": "Office of the Texas Governor (.gov)",
-      "published_at": "2026-10-30T23:04:31Z",
-      "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
-      "categories": [
-        "미국 주별"
-      ],
-      "source_ids": [
-        "texas"
-      ],
-      "source_names": [
-        "텍사스 주지사실"
-      ],
-      "kinds": [
-        "공식 기관"
       ]
     },
     {
@@ -1547,6 +2164,27 @@
       ],
       "source_names": [
         "조지아 경제개발부"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "524a744577bc2a1287e40b51",
+      "title": "National Lab Discovery Series: Electrochemical 3D Printing - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeEtZb1JDV1cxN0hBVkFmV0xYeExmRjUzRHBGUmdnUWs1ZGVBSkhsOXRRSkMyNlNNVzJjTXlhTTRia2tFZUdTNEtkVXZwXzQ5M3dPdkc4ZFlUVGVqa05lQWNBdjRia3FaWHJ6aWdLNFNudUhnUXVvcjFmS0FhTGZSZWVwXzUtQjRWM1UyTHlqRXRmX3Y0bUJFa0FROTlqZ1Yybm9vMUhDdkk2NkxNSHJBaHNyNGhvQQ?oc=5",
+      "publisher": "Department of Energy (.gov)",
+      "published_at": "2026-10-30T14:42:15Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
       ],
       "kinds": [
         "공식 기관"
@@ -1637,34 +2275,13 @@
       ]
     },
     {
-      "id": "0ba47a7acd1e757663098555",
-      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’ - SK hynix",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmeXhNU2JBelkweU02OE84N2VPMHUwaUFSa0kzSjREVkpOYW5Bd3Uzc0Q3cDVXUnpzbzFvWmlHeHpmN3BTb2hJRjA1WGRMaEpfX0VyazkzRFcwMWpDV2c?oc=5",
-      "publisher": "SK hynix",
-      "published_at": "2026-10-29T07:00:00Z",
-      "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
-      "categories": [
-        "기업·프로젝트"
-      ],
-      "source_ids": [
-        "company-sk-lg"
-      ],
-      "source_names": [
-        "SK하이닉스·LG 공식 뉴스"
-      ],
-      "kinds": [
-        "기업 공식"
-      ]
-    },
-    {
       "id": "990e3f497c794369d81f359c",
       "title": "삼성전자, 2026년 3분기 실적 발표 – 삼성전자 뉴스룸 - samsung.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNckxTdWRCaEpScXE5bm90Z0Vtc3BBQ254aFR5UG54SkxuM0dkX1FYcDB0YlBYSjhJZ3JtNEJMUkFlSHJXcTFqM3JJb2RuaU4zbVlmel9rOFhlR3Z2cmM4Y3Q2S0k2VEpLMVFzVmZuUGd5TEtOM0RWZEJyUmxLTW9EOFI0akJHTXFuQlYxWDFZU2RFc3FWYnF1TUozcENxbWh6ZkhZZndHbFdPMFp1Y0xKTXRNZjV5bEVFZFJucFdtQ0xRMEtiTWdKOG13TElWZDllNFE?oc=5",
       "publisher": "samsung.com",
       "published_at": "2026-10-29T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -1672,7 +2289,8 @@
         "korean-us-ko"
       ],
       "source_names": [
-        "한국 기업 미국 진출 — 국문"
+        "한국 기업 미국 진출 — 국문",
+        "한국 기업의 미국 반도체 사업 — 국문"
       ],
       "kinds": [
         "기업 공식"
@@ -1763,6 +2381,72 @@
       ]
     },
     {
+      "id": "09cae5ad7af9e19e67a03f6f",
+      "title": "Samsung Electronics Announces Third Quarter 2026 Results – Samsung Newsroom Malaysia - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMUZjV0RPYjBJb0s5SWY0dWZSaVg3VGhUWUd1ckVJcHVRRjItemJKVGVnV0xKZDVOci1sTW14Z240MmUxc2RBbEIxNm5scTE0VmpGV0x1eEhlVUI1bU9ydDRDWVFuRkJBY3JCd1hoV29FRGtXZDZFS2QwUzNUSUJvOUI5TmdZM3hKeWFDTw?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-10-29T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "0ba47a7acd1e757663098555",
+      "title": "[Tech Note] Why does AI still have to wait with tens of thousands of GPUs? How silicon photonics and CPO are building the ‘highways of light’ - SK hynix",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOT3hQdnVoY3lZS3BzSmxvc3J6YjZnWTlrbnF3NThXbEtfaHVtOWlDSDl5Vk9DLW5MWDNQTW5fYTI4b0ZDXzBqVVZfOXA1NEg0eC0yR3F1eF90MWpzYTB5SA?oc=5",
+      "publisher": "SK hynix",
+      "published_at": "2026-10-29T05:52:19Z",
+      "first_seen_at": "2026-11-18T18:05:00.641384Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "기업·프로젝트",
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "company-sk-lg",
+        "korean-us-en"
+      ],
+      "source_names": [
+        "SK하이닉스·LG 공식 뉴스",
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "78def2f9271c1f0bfca31380",
+      "title": "Tools and Instruments - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11bkZfYkpOeUdLWjZraGxzN0dhbVFzUHBRVlQzekc2UWJGTnVYWDh2SFZ1VjZKTmg0dmJJeVVMUFhsTzN1SXFBQVZkRnpnTlZMMVBxSm5EbDBaRlFQR3dTcFhJYVlicXBhd3VvSg?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-10-28T23:46:16Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
       "id": "7ee3691b6b883e394974e801",
       "title": "Governor Abbott Activates State Emergency Response Resources Ahead of Texas Flood Threat - Office of the Texas Governor (.gov)",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkV2ZE9kRzBlNkdIdlUxNVh6VVYtejRyZGtSR0FXcm1kVWNxQzJBR3l0QS01Vnp4Wlc0VGk1Szh6OXVWOGpLNS1GbjBjTG1iY1NnUjhKM0d5eUZhMFBncmM0TEdoWU5NT2ZIYWNSZ3lwNExEcnBUTjV6aWhfTnBZblotMDhyaXRHMGpCZjhOSDhJeW5oNWFtMVFVcnJsbGdpWlRTNGIta1l1OHdJMmZrWVpidmN2Mkxnc2NJcw?oc=5",
@@ -1811,15 +2495,18 @@
       "publisher": "SK hynix",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
-        "기업·프로젝트"
+        "기업·프로젝트",
+        "한국 기업의 미국 진출"
       ],
       "source_ids": [
-        "company-sk-lg"
+        "company-sk-lg",
+        "korean-us-en"
       ],
       "source_names": [
-        "SK하이닉스·LG 공식 뉴스"
+        "SK하이닉스·LG 공식 뉴스",
+        "한국 기업의 미국 반도체 사업 — 영문"
       ],
       "kinds": [
         "기업 공식"
@@ -1841,6 +2528,111 @@
       ],
       "source_names": [
         "SK하이닉스·LG 공식 뉴스"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "1a607af83676a3aae22428ab",
+      "title": "SRI 6012 Precision Semiconductor Nanostructures - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPazFoVHpNWWhNaVlMX0NXTHczbE14enY4aGFXcFhUbDNWaWF3QW54Q3luTnJlOWNFSWdPN2MteW5BVnl0X2h0TEVISE0ySGthTUFtdTZIaWFqbjNES0ZwRFBYWWpiY1kwczRFZU1xbmp6SW5wbTZuRlJmN28xcFNEZl9xS3hGb2tuR2hCZDhlWWQ1U1hvUDN5VUk0MEYwNTBN?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-10-28T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "ab0cf75d0a1429c1c4982517",
+      "title": "Advanced Materials and Manufacturing Technologies Office - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZURqWHlSOURQZUpsRGpaekQ3c0pnWW1RbWdXT1ZFZzRDU0pBUVJWZGhNMS0wNEdtSE5xZjlhb09scG5heXVKOTBPVXVBenZoVmszb05JVE5MQWcwQkZqMUFlTjJKR3R2ZFZrcVhQVFBRVHExaE5uV3c0a2ZVMVhFQTdTbW1RLW43M3ZLUlgzU05sS2FR?oc=5",
+      "publisher": "Department of Energy (.gov)",
+      "published_at": "2026-10-28T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "b3103406661c4640c5f6155f",
+      "title": "Samsung Brings Galaxy Buds On to the US for Comfortable, Open-Ear Listening - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUJWT3pIblhGeVNYSFlhWHEtRk9hSVg1R0swV0VFcUFTTmNIZTFySUVueWJoMmpPdFhjU2xBLW1HRXJDS3RNUVBTUTdSN2RfVVlCdWY2MTJMUVRKMXhRaHY4V1d5VGhPakVXNnJNSjFKOTRNTjF4a19XN2NpS0F4Zm5NcGphcm9lMXk5eg?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-10-28T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "f5b66d36716909feb1f5bde6",
+      "title": "Samsung Wallet Launches New Cash Back Experience With Rakuten and Samsung Cash - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTDhNYi1oc2VIWGNQM1FVUGRGc1NIVVdKcnY5Z0M2a0tNSFZQWWdCNzZlX3U2UXY0bE9kTFBxSWhCZDJBSUhpX29lSVcxNWVQaTNTc3c5azdYOVVuUG5ZWlNOa0Q5NnR4NkZ2Q0Zza0ZibVlMdnN5SlpESGg3azBvUWdCMXpqU1k1SWxPbHNhajF6aURkYjRWa3FpRmtnUQ?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-10-28T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "cdd76a97745284e05bb9ffc1",
+      "title": "삼성전자, 한국 식약처 허가로 갤럭시 워치 수면 무호흡 기능 고도화 – 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPa2ZNdVhhWjhweVNGZlpxMmI3ZWZUSm00SEZrWDV5MFB3TVQ1RHladWw2NzZQWkNjeVEtRkRZMGNHaWxXazZtQnl4MktScjZxTm5mU3lmN0ZZZmF2TFZlYkpqeWNrZ2ZTTUE1UEkzOXJoRXZPTENFRmc0NEt6OXhFUFBpblBtUTFJdG8zd0pQWVNlRXJ4WkNoVkR4Uk1wX01yb1lHV1JERUZzSDFSZHJkV29PXzJ5ZG9pVXVQdExRLVFUd3hldmtPOHRmV1pxcWp5d3BlMzFWWWU5VzU5RmtuODYzMnM2YldKME9tZk82aUZsallYNlRXaW5UekhVdEtkelR3alJDSWM3Y1FhVDNmYVFqemJ5MmQ1V1FFcGRGRHlhTk9ackxqd2lyNENnaF9tcnNqSXBEQmFQcFBPZnkwSFUtZUtPaW8?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-10-28T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-ko"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 국문"
       ],
       "kinds": [
         "기업 공식"
@@ -1889,6 +2681,27 @@
       ]
     },
     {
+      "id": "bba7c3c32815c47af825353c",
+      "title": "Energy Department Designates Helium as Critical Material to Strengthen American Manufacturing and Supply Chain Security - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3VpNnI4dlZyUUJnX2J3bElLY1UwMmNLUWFSWDJtSTBoRVN1VUVHcmJ4SWM2NEpiTnV0YU1mbUZHSV9ORWxwUHBVZHpaQURnb3prV25CRGd6THBIamE5VW9pbzUwRi04Ym1ob0RkOS1BV0ljZDBnb2lCckVsWXI3TjNfWTJGUXIwWUpKbld4MFlEc2RDNXJlTVdZeUtRVDR1RUFzOG1SNW5ObDZIaW1la0dmVmhOV290T2s0?oc=5",
+      "publisher": "Department of Energy (.gov)",
+      "published_at": "2026-10-27T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
       "id": "ad392e891f70e8a871be9d1a",
       "title": "Texas Music Office Hosting 8th Annual Texas Sounds & Cities Conference In Dallas - Office of the Texas Governor (.gov)",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2p3c3Ixd0VQNWM3SWh0M1YyTUhYNUxCdjhGTDNFdGhOTzJ3S2h0cUZVT2l2X01hdVRMZjAtSUlpdXhvZnl6VFNoNGZQX2J3eW9fYURRWVM1RVppUzMxN0s4eEx4d3h1eTlqRnRrVDByeXRYYmI4ZUhLX3Q3VWhJMHlBU1pJZ0x1OW1ZM2VHcmdCWWxrVW1ya0pYQjl1XzFJcUt5dFFJOS1pamV0RkhKUkE3cWo?oc=5",
@@ -1931,6 +2744,48 @@
       ]
     },
     {
+      "id": "58f12e12a1b34e062d644054",
+      "title": "Cadmium Telluride - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTcy10U19KWEhFOGxRUlpLUGM0bzc5Q3FGQnpfUnNUU3RGdDFHMjN4MDRteU5fMW1tbk1nbVdrcGhJaXlZTUpoNWt5TnF4N3BwR3Y5d09GSjBjcHoweUZId1dxbw?oc=5",
+      "publisher": "Department of Energy (.gov)",
+      "published_at": "2026-10-26T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "52980b3a4429f5990cd721e1",
+      "title": "Galaxy Z Fold8 Earns ‘CR Recommended’ Distinction from Consumer Reports - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlh2MVU4NngxNmxqLUw1RmR5TDN4VHNZMVI0bHJiOG1sQVBKdXJ6WHM3TFN6MUdsX1pzRm5MSmlsai1KbE9ZWWlISlN4ZlMtM3g4RFhoSmp5RUVaTG8zbDZPRzI3cHBxOGk5ODFoSHY5dDdzM3hhTjBFUThuSXYyc3hqdTcxa1R2YW5Sb19OSElta2syckVMc0RJSXFJQQ?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-10-26T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
       "id": "4b48e3357f3df3ee64ef11d7",
       "title": "Audi AG Selects Georgia to Invest $4 Billion in First US Manufacturing Facility - Georgia Economic Development",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnJoRlBFTUk1c3NnQmUwUG5jS3RGSTV5bjVqYVZ1S2lHWlpudWZwZzRGSm1WV1FsQ3hodUZvMjNkbnlxWTB4WnRxSFZka2F0ZE9yS1FzVEFvMG1qUG1uU2VLX0dlXzd1MWdSTExpY2cxUHV0dGpVNFMtMng1eXpZRnE1VUozLXA1Vm1FLXQ1bkt5Z0JzR3haV0lMTkxxMnFicG9PNU5HZHlTXzg?oc=5",
@@ -1958,7 +2813,7 @@
       "publisher": "Office of the Texas Governor (.gov)",
       "published_at": "2026-10-23T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "미국 주별"
       ],
@@ -2015,6 +2870,27 @@
       ]
     },
     {
+      "id": "40d08c2ab93fb31116284ee2",
+      "title": "Federal Notice: Helium Added to the DOE Critical Material List - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44MWZPSFpaSUpVRnRnNjM1Z1o4RUNlODRZdmMwYy1vejFCZnhaSzdUaTVKSmhuYjR1WXA4eWY3N0g5RzhydUR0RzUwcy1wUE1NbnNBSGc3NEVEdjVTRS12Sm5vM2tOY0xBcm5yYnI2UQ?oc=5",
+      "publisher": "Department of Energy (.gov)",
+      "published_at": "2026-10-23T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
       "id": "af5f3a437dd4de6fd8b5ec31",
       "title": "LG Innotek is Collaborating with NVIDIA, Taking One Step Closer to Securing a Leading Position in the Physical AI Market - LG Corp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VcGN2dTI5Z24tbHJMMnpZRXVBUWhDc1dBVjlOa3RQcjRNeHRvRlNuQnU0Ym91UGJyVE8zWno5MUwtVmxTWmpuVUNTUmVjeWdlbVpHVw?oc=5",
@@ -2057,6 +2933,27 @@
       ]
     },
     {
+      "id": "6a6909fed7fe7885f92204e4",
+      "title": "CHIPS Funding Recipients - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04cTlSX0RCekQ4R3lTR3dIMkVPbmhHX0R4QkZKMGo2YkJwcGl1aHRQVWFPa18tcDhlS1ZIMVhSRGFZUG1jX2FlVlVBTU9Dc0hYVHl3?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-10-22T10:19:08Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
       "id": "4eafc2ce4452d38c1b612abd",
       "title": "Parts Development Management Specialist - hyundai.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnk0aGJpdjhjdlM3ZmJ3aHVETXVuUWl5SEJma1NkSmRBdXVmWnNXcUVaNTNaN1RBeU5WSzdNOEZsd0xnSDdvQjBqcy1WMUhqNWNVakl5TXBTOFpqdWRfUEpEbE5mZXRvYk9zYjZHVjNsYkcxSGkxZ2FWa2hDZmVhZmtWSmhBaHdyYUZEb3FheVplaXVaT0JHYzc1Y3hBcVdqU0VoaS1zeXpRU3RYSW5CbE5MbFNLSDA?oc=5",
@@ -2075,6 +2972,48 @@
       ],
       "kinds": [
         "기업 공식"
+      ]
+    },
+    {
+      "id": "c6bbc84eaab167473d90060c",
+      "title": "Department of Commerce Announces Letters of Intent With 4 Companies for $389 Million of R&D Awards to Strengthen America’s Energy Semiconductor Supply Chain - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEdiaElUdmdRUmROa1VJN00tV3M0SmpBSzRacktERVIyb2FwT2xiT1ZBazFtcGZaX2V2TmtiZ0ZLdWNVNDdKWUhGVFNkaVlQYWlQTVhSWGxtdFdUVlpkMURSc3dmWEVqRHMyZzdEZ0JXdHVEWjZicTlvUV9CU1FWeG1NdlgtVG9VbEwwYnNPbzJpM203VVl6cC0ySzRhZVBveXc4UnRJaXZqUFc0aXVfMVpHa29uMDZV?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-10-22T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "919a16231ca0874999209dc1",
+      "title": "DoC Announces LOIs with 4 Companies for $389M of R&D Awards - National Institute of Standards and Technology (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmS1pTeG1rRlczUjA0MV9vUm1ycUwzbmtZU1lmRG01UU13MlZBNGtmYWJYMGJaM3dXRTVoUlhvakFDUFpmUmRSRFY2eUdWUVRPeVVVanR6NkdiOUhiOVdzaEFKRG4xY0dkbkhwcmNR?oc=5",
+      "publisher": "National Institute of Standards and Technology (.gov)",
+      "published_at": "2026-10-22T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
       ]
     },
     {
@@ -2204,6 +3143,132 @@
       ]
     },
     {
+      "id": "fd79d8745bd5f64c40a28c2e",
+      "title": "How Does Solar Energy Work? - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1ZE15R29HcDNMV0Q3VEhZbld6NzRuZXR3Uk54blFVd1M1Nk1UcTlyQThYS1hQYzU5cFZuOEhXSjY1UkVfRGVmNmFOQktvSEwtRlJxMFdlN213UUpuOTFfVFVZMnpRQzY0TFR3VmFDaw?oc=5",
+      "publisher": "Department of Energy (.gov)",
+      "published_at": "2026-10-21T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ]
+    },
+    {
+      "id": "f639be28862ae24f29d03bf4",
+      "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory - SK hynix",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uY2RnczlYb1hVQ3F5YTJCOGc0ODlrTHBVVjU2QS1zRkdpNTFFdnJpZXBTRS1BVGI2UnF2VkRKc1pIM3U3LWlyQTIxNTNDQWwxRE9FV0dnLTFnaW1VZTNQOGtn?oc=5",
+      "publisher": "SK hynix",
+      "published_at": "2026-10-21T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "0cb89e26616f74a1a39e91af",
+      "title": "Q3 2026 Earnings Conference Call Invitation - SK hynix",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02c2hrdEVVY3NZTTIzb0E1bHk2XzFuMF9Nd1BLRWtVdEplYlNDcFZ1cXdmVmxadVpzc3QxVVRubkZCc0RTdHZYSC1lN2NuNXFkVG5BdTVJUzYyelVfZnZtNTRmWGRjZW1GU0F6Y1FNMndpcFkteEtxZ1ZqX2I?oc=5",
+      "publisher": "SK hynix",
+      "published_at": "2026-10-21T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "63c9caf01935db454f725e51",
+      "title": "A Galaxy First: Samsung Certified Re-Newed Now Available on Amazon.com - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb09QZDJkOUlfUTIyaUxKbEFUQ204NmhZU2piTW01NWxaMmE3QzlQaXVTalhoaGlzclRBczEwZTQ1cHFBYXVQTUVIc0FKZXBxb185cFQxZEhOa0dFWHpHZmw3QXdpUU1PdENHUWk4eFVrTzNEOW9KeUw1d2JaXzlXWlV1cURoaVItR3JhdVJVWWczUQ?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-10-21T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "5059861225cd3472a1611e39",
+      "title": "“일상을 더욱 풍요롭게”… 삼성전자, 전 세계 63개국 ‘삼성위크 2026’ 실시 – 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPeXFvZHF0TGtYdHpnLXVqZUZWVVVXcnpDMDZRMEloMmhldW1HZTA0M2tjUXMyTlBDTVVpdUNncUVLZUlUUGxzVXh0X1kxMlVRTEVXQmxWanpJMEF0V2FRc1NNRVo5aVBXZFBQbmNXWnJKXzJrTm1XNThJM0JGNjN1THFnRE9rRVJsZ2JXYkI0bzJMaHJCaDBoajhERGRNTl9LUWlWUC1EeFAyTTNDYlZ1ZncxeHIwM0dJSUEwNGRvVWNTeHRCVjMtRjRIa0M3Q3J3RC1RQ3lJdWhzNjBBZkJGTmZrRDRqZURlcjg2ajRkUHNGMUV4TzZDakNwSlRERURsandlZlVRbEMzakUtcDFZU2EtbmROeGNyOEoyT1EwR0tWdWJ5bXhYeGtqU0czNmw1NFE?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-10-21T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-ko"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 국문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "e863024db1fbe698875533d3",
+      "title": "삼성전자, JBL 80주년·바워스앤윌킨스 60주년 특별 기념 행사 개최 – 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxObllqMDdRR1ptQ09wbWgxNFNJSmZtYkxldFpKZnU4UWh6dHpvVlM1YU1XcUxVT3ZYYXV1U1NZMnVsRUhwRjFJLWhiVHdRNVgyUW56dUVEd0ltRWdJYzc0SUg3ZXFNR0x0cWlHamxYNmNUYjVlNVNQZUh1NWVNNUhRbHlsTEcybDY1VE9tNlhmdXdfYkQ4WndYb21jZmhqakdhTzV2X2hkQlhnQm01TFRfak5iTV9fS01LZ1h2Z0ZwTThOelVKbWRwZDVlY1ZnNmtwVlZ1aVVBcXhyLThUb3lmcm1IZHJkakdxODZwendtMFRZTFJELTNYVktnNGhxZFV6TjNsOW4wOENremJxdkdobUxKdnNmdmNzdzgyREMtWjhkSzFMZ3dnR21mOEdYQlo3SDl4NEdURXEyQnRCeTB1N3ozaTdQT0w5Nlc0?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-10-21T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-ko"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 국문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
       "id": "dba2253ddd269b2ad4a30ecf",
       "title": "Dallas Creatives Hangout - Office of the Texas Governor (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44bmQzc3lPQUdxM2tlcDhnamFPTEo1Y21SQ1FlS2EzZTZYSjdYQ2lZUEM3cUp2eFo3dkRKMHh3WW5ULUg0RDkwMnppZW9oYk1IT3NfVlk5Umh1Qk5aQzZGVzdSYWUxa3Ex?oc=5",
@@ -2267,13 +3332,34 @@
       ]
     },
     {
+      "id": "6d011c13df1ee70d8f639f7e",
+      "title": "“Memory-Centric Server Systems Are the Future”: SK hynix Presents Its Next-Generation AI Infrastructure Vision at OCP Global Summit 2026 - SK hynix",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xTFZCeUhhS0JNM3Ztc24tSjhBS2dIZUdsQVVhZ21IVkpCd0NGVWU5MVFvbjFIM2c0MFdmakI0UEdIYzlSVVlWcHkweTRZbS1GaS1XNXNTOWhoYUhqd2MtUlk1OA?oc=5",
+      "publisher": "SK hynix",
+      "published_at": "2026-10-20T10:46:54Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-en"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 영문"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
       "id": "863dde90c7c5bf45057f2323",
       "title": "Rockport Recognized As Tourism Friendly Texas Certified Community - Office of the Texas Governor (.gov)",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmU2ektQdFZLMm55Y05pczBUZVdlbW5HVHpmZTJEbEVqUWd5c09WdFFYU0xkbDFaaTR5WGRjSml0Vm1xVDhkX2daYi1GWUF6T2ctX0xCRU9QSk1neXRhdXlWUGR1ODFaVXRFbFhvX2JnVnZ0VVJhNGdDSzhPazlnQTlocjJOTUhscGpmVzNVMGM4ZF9Salk5cW9UWDQtWEVMN2Zpanpfaw?oc=5",
       "publisher": "Office of the Texas Governor (.gov)",
       "published_at": "2026-10-20T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "미국 주별"
       ],
@@ -2294,7 +3380,7 @@
       "publisher": "samsung.com",
       "published_at": "2026-10-20T07:00:00Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T18:07:04.025017Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -2302,7 +3388,8 @@
         "korean-us-ko"
       ],
       "source_names": [
-        "한국 기업 미국 진출 — 국문"
+        "한국 기업 미국 진출 — 국문",
+        "한국 기업의 미국 반도체 사업 — 국문"
       ],
       "kinds": [
         "기업 공식"
@@ -2324,6 +3411,27 @@
       ],
       "source_names": [
         "삼성전자·현대자동차 공식 뉴스"
+      ],
+      "kinds": [
+        "기업 공식"
+      ]
+    },
+    {
+      "id": "47ca5ead9ed95d4043da4e55",
+      "title": "지역마다 다른 일상, AI 가전 경험도 다르게…삼성전자 ‘더 브리프’ 글로벌 현장 – 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOeDZfUlRVbXRSN3JUUkhtQlJ6VjNxX2NOVzJFNU12dnNEZ08xb3BJTTdiZVJKRWRMdHZXTXVVZFpJaEVJRE1aeFFOblh3QzJTM2R6WloxME1IT1pFYk1nd3N6SzQyTDI5eFJJSnM2WnVIcjRGYk9LVEh3Y1VrSVJpeXFwdnhnVlYxZGhSZGh6cEZaUU9XdzJ3TnB4czhYTkswQXFUajgwc29UdzV6eXFpa0lxdjI3TXk1S25wV1BrRE5fU1IzanExcHJuc2ZKdXVpc19yOTFjQUxHcURVOW1JTnpuRmt5M2RucGxtTjlfUnJ2Y2JHWUVPbnJ0czF4MHJIOUI2MEQzLVZwemVlcXdaSUwwb3JMVHV6cnJyYmhTU1pRNWx3cEZ1RjZJdDNnd25zZ240S2FiUjRQUE4tVktB?oc=5",
+      "publisher": "samsung.com",
+      "published_at": "2026-10-20T07:00:00Z",
+      "first_seen_at": "2026-11-18T19:13:51.125206Z",
+      "last_seen_at": "2026-11-18T19:13:51.125206Z",
+      "categories": [
+        "한국 기업의 미국 진출"
+      ],
+      "source_ids": [
+        "korean-us-ko"
+      ],
+      "source_names": [
+        "한국 기업의 미국 반도체 사업 — 국문"
       ],
       "kinds": [
         "기업 공식"
