@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T19:44:10.382598Z",
+  "updated_at": "2026-11-18T20:09:41.107816Z",
   "topic": "semiconductor",
   "source_results": [
     {
@@ -71,7 +71,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-11-18T10:41:56Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-18T19:44:10.382598Z",
+      "last_seen_at": "2026-11-18T20:09:41.107816Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -89,7 +89,8 @@
         "energy.gov",
         "federalregister.gov",
         "nist.gov"
-      ]
+      ],
+      "ai_status": "error"
     },
     {
       "id": "af289ac426964081f88cf98d",
@@ -98,7 +99,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-17T02:33:43Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T19:44:10.382598Z",
+      "last_seen_at": "2026-11-18T20:09:41.107816Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -116,7 +117,8 @@
         "energy.gov",
         "federalregister.gov",
         "nist.gov"
-      ]
+      ],
+      "ai_status": "error"
     },
     {
       "id": "03eb8bae510bf4b15e75824e",
@@ -125,7 +127,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-10T18:13:51Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-18T19:44:10.382598Z",
+      "last_seen_at": "2026-11-18T20:09:41.107816Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -143,7 +145,8 @@
         "energy.gov",
         "federalregister.gov",
         "nist.gov"
-      ]
+      ],
+      "ai_status": "error"
     },
     {
       "id": "90eca3602b591d46205bea7a",
@@ -171,7 +174,8 @@
         "news.skhynix.com",
         "newsroom.intel.com",
         "pr.tsmc.com"
-      ]
+      ],
+      "ai_status": "error"
     },
     {
       "id": "4af7d19d024d704dfd2dc0e7",
@@ -199,7 +203,8 @@
         "news.skhynix.com",
         "newsroom.intel.com",
         "pr.tsmc.com"
-      ]
+      ],
+      "ai_status": "error"
     },
     {
       "id": "1a607af83676a3aae22428ab",
@@ -208,7 +213,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-18T19:44:10.382598Z",
+      "last_seen_at": "2026-11-18T20:09:41.107816Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -226,7 +231,8 @@
         "energy.gov",
         "federalregister.gov",
         "nist.gov"
-      ]
+      ],
+      "ai_status": "error"
     },
     {
       "id": "c6bbc84eaab167473d90060c",
@@ -235,7 +241,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-22T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-18T19:44:10.382598Z",
+      "last_seen_at": "2026-11-18T20:09:41.107816Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -253,7 +259,8 @@
         "energy.gov",
         "federalregister.gov",
         "nist.gov"
-      ]
+      ],
+      "ai_status": "error"
     },
     {
       "id": "f639be28862ae24f29d03bf4",
@@ -262,7 +269,7 @@
       "publisher": "SK hynix",
       "published_at": "2026-10-21T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-18T19:44:10.382598Z",
+      "last_seen_at": "2026-11-18T20:09:41.107816Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
@@ -278,7 +285,9 @@
       "allowed_domains": [
         "news.samsung.com",
         "news.skhynix.com"
-      ]
+      ],
+      "ai_status": "error"
     }
-  ]
+  ],
+  "ai_model": "gemini-2.5-flash"
 }
