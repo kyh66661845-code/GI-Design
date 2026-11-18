@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T19:15:42.596150Z",
+  "updated_at": "2026-11-18T19:21:54.490995Z",
   "topic": "semiconductor",
   "source_results": [
     {
@@ -30,7 +30,7 @@
       "id": "company-project",
       "name": "반도체 기업 공식 발표",
       "status": "ok",
-      "count": 0
+      "count": 2
     },
     {
       "id": "korean-us-en",
@@ -71,7 +71,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-11-18T10:41:56Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-18T19:15:42.596150Z",
+      "last_seen_at": "2026-11-18T19:21:54.490995Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -98,7 +98,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-17T02:33:43Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-18T19:15:42.596150Z",
+      "last_seen_at": "2026-11-18T19:21:54.490995Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -125,7 +125,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-10T18:13:51Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-18T19:15:42.596150Z",
+      "last_seen_at": "2026-11-18T19:21:54.490995Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -152,7 +152,35 @@
       "publisher": "TSMC",
       "published_at": "2026-11-10T12:00:00Z",
       "first_seen_at": "2026-11-18T19:14:58.201754Z",
-      "last_seen_at": "2026-11-18T19:14:58.201754Z",
+      "last_seen_at": "2026-11-18T19:21:54.490995Z",
+      "categories": [
+        "기업·프로젝트"
+      ],
+      "source_ids": [
+        "company-project"
+      ],
+      "source_names": [
+        "반도체 기업 공식 발표"
+      ],
+      "kinds": [
+        "기업 공식"
+      ],
+      "allowed_domains": [
+        "investors.micron.com",
+        "news.samsung.com",
+        "news.skhynix.com",
+        "newsroom.intel.com",
+        "pr.tsmc.com"
+      ]
+    },
+    {
+      "id": "4af7d19d024d704dfd2dc0e7",
+      "title": "TSMC October 2026 Revenue Report|Taiwan Semiconductor Manufacturing Company Limited - TSMC",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QNDNGRHV6Z0ZJVk9Fd2lYNlNOTDZCSGViTEdoZm80X1ZTZU5nQm5rRUFYbjZvV3RYNU4yUXp3V3pKOV9aU1lTRGdvcTk2Zw?oc=5",
+      "publisher": "TSMC",
+      "published_at": "2026-11-10T08:00:00Z",
+      "first_seen_at": "2026-11-18T19:21:54.490995Z",
+      "last_seen_at": "2026-11-18T19:21:54.490995Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -180,7 +208,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-18T19:15:42.596150Z",
+      "last_seen_at": "2026-11-18T19:21:54.490995Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -207,7 +235,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-22T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-18T19:15:42.596150Z",
+      "last_seen_at": "2026-11-18T19:21:54.490995Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -234,7 +262,7 @@
       "publisher": "SK hynix",
       "published_at": "2026-10-21T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-18T19:15:42.596150Z",
+      "last_seen_at": "2026-11-18T19:21:54.490995Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
