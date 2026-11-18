@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>나의 뉴스 대시보드</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #f4f6fb;
+      color: #172033;
+      font-family: system-ui, sans-serif;
+    }
+    main { max-width: 900px; margin: auto; padding: 28px 18px; }
+    h1 { margin-bottom: 8px; font-size: 28px; }
+    .subtitle { color: #64748b; line-height: 1.6; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+      margin: 24px 0;
+    }
+    .stat, article {
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 16px;
+      padding: 18px;
+    }
+    .stat span { display: block; color: #64748b; font-size: 13px; }
+    .stat strong { display: block; margin-top: 8px; font-size: 24px; }
+    .filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 18px; }
+    button {
+      border: 1px solid #cbd5e1;
+      border-radius: 24px;
+      padding: 10px 16px;
+      background: white;
+      color: #334155;
+      cursor: pointer;
+    }
+    button.active { background: #2563eb; border-color: #2563eb; color: white; }
+    article { margin-bottom: 12px; }
+    .tag { color: #2563eb; font-size: 13px; font-weight: bold; }
+    article h2 { font-size: 19px; margin: 10px 0; }
+    article p { color: #64748b; line-height: 1.6; margin-bottom: 0; }
+    footer { color: #64748b; font-size: 13px; margin-top: 24px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>📰 나의 뉴스 대시보드</h1>
+    <p class="subtitle">관심 분야의 소식을 한곳에서 확인하세요.</p>
+
+    <section class="stats">
+      <div class="stat"><span>샘플 기사</span><strong>3</strong></div>
+      <div class="stat"><span>카테고리</span><strong>3</strong></div>
+      <div class="stat"><span>현재 모드</span><strong>데모</strong></div>
+    </section>
+
+    <nav class="filters" aria-label="뉴스 카테고리">
+      <button class="active" onclick="filterNews('전체', this)">전체</button>
+      <button onclick="filterNews('기술', this)">기술</button>
+      <button onclick="filterNews('경제', this)">경제</button>
+      <button onclick="filterNews('생활', this)">생활</button>
+    </nav>
+
+    <section aria-label="뉴스 목록">
+      <article data-category="기술">
+        <span class="tag">기술 · 샘플</span>
+        <h2>AI 기술 동향을 확인하는 공간</h2>
+        <p>실제 뉴스가 연결되면 이곳에 기사 제목과 요약이 표시됩니다.</p>
+      </article>
+      <article data-category="경제">
+        <span class="tag">경제 · 샘플</span>
+        <h2>경제와 시장 소식을 한눈에</h2>
+        <p>관심 있는 경제 뉴스를 모아 확인할 수 있도록 구성할 예정입니다.</p>
+      </article>
+      <article data-category="생활">
+        <span class="tag">생활 · 샘플</span>
+        <h2>일상에 도움이 되는 정보</h2>
+        <p>생활 분야의 기사와 유용한 정보를 보여주는 샘플 카드입니다.</p>
+      </article>
+    </section>
+
+    <footer>※ 현재는 화면 확인용 샘플이며, 실제 뉴스 수집은 연결되지 않았습니다.</footer>
+  </main>
+
+  <script>
+    function filterNews(category, button) {
+      document.querySelectorAll('article').forEach(function (article) {
+        article.hidden =
+          category !== '전체' && article.dataset.category !== category;
+      });
+      document.querySelectorAll('.filters button').forEach(function (item) {
+        item.classList.remove('active');
+      });
+      button.classList.add('active');
+    }
+  </script>
+</body>
+</html>
