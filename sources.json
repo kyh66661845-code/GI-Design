@@ -1,0 +1,124 @@
+{
+  "retention_days": 30,
+  "max_articles": 300,
+  "max_items_per_source": 25,
+  "sources": [
+    {
+      "id": "us-federal",
+      "name": "미국 연방기관",
+      "category": "미국 연방정부",
+      "kind": "공식 기관",
+      "language": "en",
+      "enabled": true,
+      "query": "(site:commerce.gov OR site:energy.gov OR site:federalregister.gov) (investment OR manufacturing OR energy OR semiconductor OR regulation) when:30d"
+    },
+    {
+      "id": "texas",
+      "name": "텍사스 주지사실",
+      "category": "미국 주별",
+      "kind": "공식 기관",
+      "language": "en",
+      "enabled": true,
+      "query": "site:gov.texas.gov (investment OR manufacturing OR business OR jobs) when:30d"
+    },
+    {
+      "id": "georgia",
+      "name": "조지아 경제개발부",
+      "category": "미국 주별",
+      "kind": "공식 기관",
+      "language": "en",
+      "enabled": true,
+      "query": "site:georgia.org (investment OR manufacturing OR expansion OR jobs) when:30d"
+    },
+    {
+      "id": "north-carolina",
+      "name": "노스캐롤라이나 상무부",
+      "category": "미국 주별",
+      "kind": "공식 기관",
+      "language": "en",
+      "enabled": true,
+      "query": "site:nccommerce.com (investment OR manufacturing OR expansion OR jobs) when:30d"
+    },
+    {
+      "id": "company-samsung-hyundai",
+      "name": "삼성전자·현대자동차 공식 뉴스",
+      "category": "기업·프로젝트",
+      "kind": "기업 공식",
+      "language": "en",
+      "enabled": true,
+      "query": "(site:news.samsung.com OR site:hyundai.com) (investment OR manufacturing OR factory OR project OR production) when:30d"
+    },
+    {
+      "id": "company-sk-lg",
+      "name": "SK하이닉스·LG 공식 뉴스",
+      "category": "기업·프로젝트",
+      "kind": "기업 공식",
+      "language": "en",
+      "enabled": true,
+      "query": "(site:news.skhynix.com OR site:lgcorp.com) (investment OR manufacturing OR factory OR project OR production) when:30d"
+    },
+    {
+      "id": "korean-us-en",
+      "name": "한국 기업 미국 진출 — 영문",
+      "category": "한국 기업의 미국 진출",
+      "kind": "기업 공식",
+      "language": "en",
+      "enabled": true,
+      "query": "(site:news.samsung.com OR site:hyundai.com OR site:news.skhynix.com OR site:lgcorp.com) (\"United States\" OR \"U.S.\" OR Texas OR Georgia OR Indiana OR Michigan) (investment OR plant OR factory OR manufacturing) when:30d"
+    },
+    {
+      "id": "korean-us-ko",
+      "name": "한국 기업 미국 진출 — 국문",
+      "category": "한국 기업의 미국 진출",
+      "kind": "기업 공식",
+      "language": "ko",
+      "enabled": true,
+      "query": "(site:news.samsung.com OR site:hyundai.com OR site:news.skhynix.com OR site:lgcorp.com) 미국 (투자 OR 공장 OR 진출 OR 생산) when:30d"
+    },
+    {
+      "id": "gwangju",
+      "name": "광주광역시",
+      "category": "한국 서남권",
+      "kind": "공식 기관",
+      "language": "ko",
+      "enabled": true,
+      "query": "site:gwangju.go.kr (산업 OR 투자 OR 기업 OR 인공지능 OR 에너지) when:30d"
+    },
+    {
+      "id": "jeonnam",
+      "name": "전라남도",
+      "category": "한국 서남권",
+      "kind": "공식 기관",
+      "language": "ko",
+      "enabled": true,
+      "query": "site:jeonnam.go.kr (산업 OR 투자 OR 기업 OR 에너지 OR 프로젝트) when:30d"
+    },
+    {
+      "id": "jeonbuk",
+      "name": "전북특별자치도",
+      "category": "한국 서남권",
+      "kind": "공식 기관",
+      "language": "ko",
+      "enabled": true,
+      "query": "site:jeonbuk.go.kr (산업 OR 투자 OR 기업 OR 새만금 OR 이차전지) when:30d"
+    },
+    {
+      "id": "yonhap-us",
+      "name": "연합뉴스 — 한국 기업 미국 진출",
+      "category": "한국 기업의 미국 진출",
+      "kind": "언론사",
+      "language": "ko",
+      "enabled": false,
+      "query": "site:yna.co.kr 미국 (삼성 OR 현대차 OR SK OR LG) (투자 OR 공장 OR 진출) when:30d"
+    },
+    {
+      "id": "reuters-project",
+      "name": "Reuters — 기업·프로젝트",
+      "category": "기업·프로젝트",
+      "kind": "언론사",
+      "language": "en",
+      "enabled": false,
+      "query": "site:reuters.com (Samsung OR Hyundai OR \"SK Hynix\" OR LG) (investment OR factory OR manufacturing) when:30d"
+    }
+  ]
+}
