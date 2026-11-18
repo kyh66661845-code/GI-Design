@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>공식 발표 뉴스 대시보드</title>
+  <title>반도체 뉴스 브리핑</title>
 
   <style>
     * {
@@ -28,10 +28,10 @@
       font-size: 28px;
     }
 
-    .subtitle {
-      margin: 0;
+    .subtitle,
+    footer {
       color: #64748b;
-      line-height: 1.7;
+      line-height: 1.8;
     }
 
     .stats {
@@ -42,9 +42,9 @@
     }
 
     .stat,
-    .news-card,
+    .card,
     .notice,
-    details {
+    .source-panel {
       background: white;
       border: 1px solid #e2e8f0;
       border-radius: 16px;
@@ -64,8 +64,8 @@
     }
 
     #updated-at {
-      font-size: 15px;
-      line-height: 1.5;
+      font-size: 14px;
+      line-height: 1.6;
     }
 
     .filters {
@@ -78,15 +78,11 @@
     button {
       border: 1px solid #cbd5e1;
       border-radius: 24px;
-      padding: 10px 15px;
+      padding: 10px 14px;
       background: white;
       color: #334155;
       font: inherit;
       cursor: pointer;
-    }
-
-    button:hover {
-      background: #eff6ff;
     }
 
     button.active {
@@ -95,31 +91,28 @@
       color: white;
     }
 
-    button:focus-visible,
-    a:focus-visible,
-    input:focus-visible {
-      outline: 3px solid #93c5fd;
-      outline-offset: 3px;
-    }
-
-    .search {
+    input[type="search"] {
       width: 100%;
       padding: 13px 15px;
-      margin-bottom: 14px;
       border: 1px solid #cbd5e1;
       border-radius: 12px;
       background: white;
       font: inherit;
     }
 
+    .options {
+      margin: 14px 0;
+      color: #475569;
+      font-size: 14px;
+    }
+
     .result-count {
       color: #64748b;
       font-size: 14px;
-      margin: 0 0 16px;
     }
 
-    .news-card {
-      margin-bottom: 12px;
+    .card {
+      margin-bottom: 14px;
     }
 
     .tags {
@@ -129,52 +122,81 @@
     }
 
     .tag {
-      border-radius: 6px;
-      background: #eff6ff;
       padding: 4px 8px;
+      background: #eff6ff;
+      border-radius: 6px;
       color: #2563eb;
       font-size: 12px;
       font-weight: 600;
     }
 
-    .news-card h2 {
-      font-size: 19px;
-      line-height: 1.6;
+    .card h2 {
       margin: 12px 0;
+      font-size: 20px;
+      line-height: 1.6;
       overflow-wrap: anywhere;
     }
 
-    .news-card h2 a {
+    .card h2 a {
       color: #172033;
       text-decoration: none;
     }
 
-    .news-card h2 a:hover {
+    .card h2 a:hover {
       color: #2563eb;
-      text-decoration: underline;
     }
 
-    .meta {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px 16px;
+    .summary-label {
+      color: #2563eb;
+      font-size: 12px;
+      font-weight: 600;
+      margin-top: 12px;
+    }
+
+    .summary {
+      margin: 8px 0;
+      color: #334155;
+      font-size: 15px;
+      line-height: 1.8;
+    }
+
+    .points {
+      padding-left: 20px;
+      color: #475569;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .meta,
+    .unavailable {
       color: #64748b;
       font-size: 13px;
-      line-height: 1.6;
+      line-height: 1.8;
     }
 
     .article-link {
       display: inline-block;
-      margin-top: 14px;
+      margin-top: 12px;
       color: #2563eb;
-      font-size: 14px;
       text-decoration: none;
+      font-size: 14px;
+    }
+
+    .original-title {
+      margin-top: 14px;
+      color: #64748b;
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    summary {
+      cursor: pointer;
     }
 
     .notice {
+      margin-bottom: 16px;
       color: #64748b;
       line-height: 1.7;
-      margin-bottom: 16px;
     }
 
     .warning {
@@ -183,27 +205,23 @@
       color: #92400e;
     }
 
-    details {
+    .source-panel {
       margin-top: 24px;
       color: #475569;
       font-size: 14px;
-    }
-
-    summary {
-      cursor: pointer;
-      font-weight: 600;
-    }
-
-    .source-item {
-      margin-top: 10px;
-      line-height: 1.6;
+      line-height: 1.8;
     }
 
     footer {
       margin-top: 24px;
-      color: #64748b;
       font-size: 13px;
-      line-height: 1.8;
+    }
+
+    button:focus-visible,
+    a:focus-visible,
+    input:focus-visible {
+      outline: 3px solid #93c5fd;
+      outline-offset: 3px;
     }
 
     [hidden] {
@@ -216,7 +234,7 @@
       }
 
       h1 {
-        font-size: 23px;
+        font-size: 24px;
       }
 
       .stats {
@@ -227,17 +245,17 @@
         padding: 14px 10px;
       }
 
-      .stat strong {
-        font-size: 21px;
-      }
-
       #updated-at {
         font-size: 12px;
       }
 
       button {
-        padding: 9px 12px;
         font-size: 13px;
+        padding: 9px 12px;
+      }
+
+      .card h2 {
+        font-size: 18px;
       }
     }
   </style>
@@ -245,22 +263,22 @@
 
 <body>
   <main>
-    <h1>📰 공식 발표 뉴스 대시보드</h1>
+    <h1>반도체 뉴스 브리핑</h1>
 
     <p class="subtitle">
-      미국 정책·기업 투자·한국 서남권 소식을 모아봅니다.<br>
-      공식 기관과 기업 도메인을 중심으로 검색합니다.
+      공식 기관·기업 발표를 중심으로 반도체 소식을 모읍니다.<br>
+      본문을 확보한 발표는 한국어 핵심 요약을 먼저 보여드립니다.
     </p>
 
     <section class="stats" aria-label="수집 현황">
       <div class="stat">
-        <span>저장된 기사</span>
+        <span>표시 대상 기사</span>
         <strong id="total-count">—</strong>
       </div>
 
       <div class="stat">
-        <span>정상 응답 출처</span>
-        <strong id="source-count">—</strong>
+        <span>한국어 요약 완료</span>
+        <strong id="summary-count">—</strong>
       </div>
 
       <div class="stat">
@@ -269,7 +287,7 @@
       </div>
     </section>
 
-    <nav class="filters" aria-label="뉴스 분류">
+    <nav class="filters" aria-label="분류">
       <button type="button" data-category="전체"
         class="active" aria-pressed="true">전체</button>
 
@@ -291,11 +309,17 @@
 
     <input
       id="search"
-      class="search"
       type="search"
-      placeholder="제목·출처·분류 검색"
+      placeholder="한국어 제목·요약·출처 검색"
       aria-label="기사 검색"
     >
+
+    <div class="options">
+      <label>
+        <input id="summary-only" type="checkbox">
+        요약이 있는 기사만 보기
+      </label>
+    </div>
 
     <p id="result-count" class="result-count" aria-live="polite"></p>
 
@@ -305,18 +329,18 @@
       <div class="notice">뉴스를 불러오는 중입니다.</div>
     </section>
 
-    <details>
-      <summary>출처별 수집 상태 확인</summary>
+    <details class="source-panel">
+      <summary>출처별 수집 상태</summary>
       <div id="source-status"></div>
     </details>
 
     <footer>
-      ※ Google 뉴스 RSS의 공식 도메인 제한 검색을 사용합니다.
-      공식 사이트의 모든 보도자료를 수집하는 것은 아닙니다.<br>
-      ※ 제목과 출처는 검색 결과 기준이며,
-      기사 링크는 Google 뉴스를 거쳐 해당 기사로 연결될 수 있습니다.<br>
-      ※ 기사 전문·이미지는 저장하지 않습니다.
-      원문 이용에는 각 출처의 이용 조건이 적용됩니다.
+      ※ 모든 분류는 반도체 관련 소식을 대상으로 합니다.
+      검색·키워드·AI 분류에는 누락이나 오류가 있을 수 있습니다.<br>
+      ※ AI 요약은 확보한 공식 발표 본문을 기준으로 작성하며,
+      원문 길이에 따라 일부 내용만 반영될 수 있습니다.<br>
+      ※ 제목만 확보한 기사에는 본문 요약을 생성하지 않습니다.
+      중요한 수치·일정은 원문으로 확인하세요.
     </footer>
   </main>
 
@@ -324,13 +348,39 @@
     const state = {
       articles: [],
       category: "전체",
-      keyword: ""
+      keyword: "",
+      summaryOnly: false
     };
 
     const newsList = document.getElementById("news-list");
-    const warning = document.getElementById("warning");
 
-    function formatDate(value, withTime = false) {
+    function element(tag, className, text) {
+      const node = document.createElement(tag);
+
+      if (className) node.className = className;
+
+      if (text !== undefined && text !== null) {
+        node.textContent = text;
+      }
+
+      return node;
+    }
+
+    function safeUrl(value) {
+      try {
+        const url = new URL(value);
+
+        if (url.protocol === "https:" || url.protocol === "http:") {
+          return url.href;
+        }
+      } catch (error) {
+        return null;
+      }
+
+      return null;
+    }
+
+    function dateText(value, withTime = false) {
       if (!value) return "발행일 미상";
 
       const date = new Date(value);
@@ -355,77 +405,111 @@
       return date.toLocaleString("ko-KR", options);
     }
 
-    function safeUrl(value) {
-      try {
-        const url = new URL(value);
-
-        if (url.protocol === "https:" || url.protocol === "http:") {
-          return url.href;
-        }
-      } catch (error) {
-        return null;
-      }
-
-      return null;
+    function categoriesOf(article) {
+      return Array.isArray(article.display_categories)
+        ? article.display_categories
+        : article.categories || [];
     }
 
-    function makeElement(tag, className, text) {
-      const element = document.createElement(tag);
+    function cardOf(article) {
+      const card = element("article", "card");
+      const tags = element("div", "tags");
 
-      if (className) {
-        element.className = className;
+      for (const category of categoriesOf(article)) {
+        tags.appendChild(element("span", "tag", category));
       }
 
-      if (text !== undefined) {
-        element.textContent = text;
-      }
-
-      return element;
-    }
-
-    function makeArticleCard(article) {
-      const card = makeElement("article", "news-card");
-      const tags = makeElement("div", "tags");
-
-      for (const category of article.categories || []) {
-        tags.appendChild(makeElement("span", "tag", category));
+      if (!article.ai_processed) {
+        tags.appendChild(
+          element("span", "tag", "번역·분류 대기")
+        );
       }
 
       card.appendChild(tags);
 
-      const heading = makeElement("h2");
-      const url = safeUrl(article.url);
+      const title = article.title_ko || article.title;
+      const url = (
+        safeUrl(article.original_url)
+        || safeUrl(article.url)
+      );
+
+      const heading = element("h2");
 
       if (url) {
-        const titleLink = makeElement("a", "", article.title);
-        titleLink.href = url;
-        titleLink.target = "_blank";
-        titleLink.rel = "noopener noreferrer";
-        heading.appendChild(titleLink);
+        const link = element("a", "", title);
+        link.href = url;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        heading.appendChild(link);
       } else {
-        heading.textContent = article.title;
+        heading.textContent = title;
       }
 
       card.appendChild(heading);
 
-      const meta = makeElement("div", "meta");
+      if (article.summary_ko) {
+        card.appendChild(
+          element(
+            "div",
+            "summary-label",
+            "핵심 요약 · AI 작성"
+          )
+        );
 
-      meta.appendChild(
-        makeElement("span", "", article.publisher || "출처 미상")
+        card.appendChild(
+          element("p", "summary", article.summary_ko)
+        );
+
+        const points = Array.isArray(article.key_points_ko)
+          ? article.key_points_ko.slice(0, 3)
+          : [];
+
+        if (points.length > 0) {
+          const list = element("ul", "points");
+
+          for (const point of points) {
+            list.appendChild(element("li", "", point));
+          }
+
+          card.appendChild(list);
+        }
+      } else {
+        const message = article.ai_processed
+          ? "한국어 제목 번역만 제공합니다. 본문 요약은 원문을 확인해 주세요."
+          : "번역·요약 처리 대기 중입니다. 원문을 먼저 확인할 수 있습니다.";
+
+        card.appendChild(
+          element("p", "unavailable", message)
+        );
+      }
+
+      card.appendChild(
+        element(
+          "div",
+          "meta",
+          `${article.publisher || "출처 미상"} · ${dateText(article.published_at)}`
+        )
       );
 
-      meta.appendChild(
-        makeElement("span", "", formatDate(article.published_at))
-      );
+      if (
+        article.title_ko &&
+        article.title_ko !== article.title
+      ) {
+        const details = element("details", "original-title");
 
-      meta.appendChild(
-        makeElement("span", "", (article.kinds || []).join(" · "))
-      );
+        details.appendChild(
+          element("summary", "", "원래 제목 보기")
+        );
 
-      card.appendChild(meta);
+        details.appendChild(
+          element("p", "", article.title)
+        );
+
+        card.appendChild(details);
+      }
 
       if (url) {
-        const link = makeElement("a", "article-link", "기사 보기 ↗");
+        const link = element("a", "article-link", "원문 보기 ↗");
         link.href = url;
         link.target = "_blank";
         link.rel = "noopener noreferrer";
@@ -435,39 +519,79 @@
       return card;
     }
 
-    function renderArticles() {
+    function render() {
       const filtered = state.articles.filter((article) => {
-        const categories = article.categories || [];
+        if (article.hidden) return false;
 
-        const matchesCategory =
+        const categories = categoriesOf(article);
+
+        const matchesCategory = (
           state.category === "전체" ||
-          categories.includes(state.category);
+          categories.includes(state.category)
+        );
 
-        const searchableText = [
+        const text = [
           article.title,
+          article.title_ko,
+          article.summary_ko,
+          ...(article.key_points_ko || []),
           article.publisher,
-          ...categories,
-          ...(article.source_names || [])
-        ].join(" ").toLocaleLowerCase();
+          ...categories
+        ]
+          .filter(Boolean)
+          .join(" ")
+          .toLocaleLowerCase();
 
-        const matchesKeyword =
+        const matchesKeyword = (
           !state.keyword ||
-          searchableText.includes(state.keyword);
+          text.includes(state.keyword)
+        );
 
-        return matchesCategory && matchesKeyword;
+        const matchesSummary = (
+          !state.summaryOnly ||
+          Boolean(article.summary_ko)
+        );
+
+        return (
+          matchesCategory &&
+          matchesKeyword &&
+          matchesSummary
+        );
       });
+
+      // 요약 완료 기사를 우선하고, 같은 그룹은 날짜순으로 표시합니다.
+      filtered.sort((a, b) => {
+        const summaryDifference = (
+          Number(Boolean(b.summary_ko)) -
+          Number(Boolean(a.summary_ko))
+        );
+
+        if (summaryDifference !== 0) {
+          return summaryDifference;
+        }
+
+        const aDate = new Date(
+          a.published_at || a.first_seen_at
+        ).getTime() || 0;
+
+        const bDate = new Date(
+          b.published_at || b.first_seen_at
+        ).getTime() || 0;
+
+        return bDate - aDate;
+      });
+
+      document.getElementById("result-count").textContent =
+        `${state.category} · ${filtered.length}건`;
 
       newsList.replaceChildren();
 
-      document.getElementById("result-count").textContent =
-        `${state.category} · ${filtered.length}건 표시`;
-
       if (filtered.length === 0) {
         newsList.appendChild(
-          makeElement(
+          element(
             "div",
             "notice",
-            "표시할 기사가 없습니다. 다른 분류나 검색어를 선택해 보세요."
+            "조건에 맞는 기사가 없습니다. 분류·검색어·요약 전용 설정을 확인하세요."
           )
         );
         return;
@@ -476,69 +600,10 @@
       const fragment = document.createDocumentFragment();
 
       for (const article of filtered) {
-        fragment.appendChild(makeArticleCard(article));
+        fragment.appendChild(cardOf(article));
       }
 
       newsList.appendChild(fragment);
-    }
-
-    function renderSourceStatus(results) {
-      const container = document.getElementById("source-status");
-      container.replaceChildren();
-
-      if (results.length === 0) {
-        container.appendChild(
-          makeElement("p", "", "수집 상태 정보가 없습니다.")
-        );
-        return;
-      }
-
-      for (const source of results) {
-        const statusText = source.status === "ok"
-          ? `정상 응답 · ${source.count}건 처리`
-          : "요청 실패";
-
-        container.appendChild(
-          makeElement(
-            "div",
-            "source-item",
-            `${source.name} — ${statusText}`
-          )
-        );
-      }
-    }
-
-    function renderWarnings(data, results) {
-      const messages = [];
-
-      const failures = results.filter(
-        (source) => source.status !== "ok"
-      );
-
-      if (failures.length > 0) {
-        messages.push(
-          `${failures.length}개 출처의 요청이 실패했습니다. ` +
-          "기존에 저장된 기사는 유지됩니다."
-        );
-      }
-
-      const updated = new Date(data.updated_at);
-
-      if (
-        !Number.isNaN(updated.getTime()) &&
-        Date.now() - updated.getTime() > 24 * 60 * 60 * 1000
-      ) {
-        messages.push(
-          "최근 수집 이후 24시간 이상 지났습니다. GitHub Actions 상태를 확인하세요."
-        );
-      }
-
-      if (messages.length > 0) {
-        warning.textContent = messages.join(" ");
-        warning.hidden = false;
-      } else {
-        warning.hidden = true;
-      }
     }
 
     async function loadNews() {
@@ -555,67 +620,122 @@
         const data = await response.json();
 
         if (!Array.isArray(data.articles)) {
-          throw new Error("기사 데이터 형식이 올바르지 않습니다.");
+          throw new Error("기사 데이터 형식 오류");
         }
 
         state.articles = data.articles;
+
+        const visible = state.articles.filter(
+          article => !article.hidden
+        );
+
+        const summarized = visible.filter(
+          article => article.summary_ko
+        );
+
+        document.getElementById("total-count").textContent =
+          visible.length;
+
+        document.getElementById("summary-count").textContent =
+          summarized.length;
+
+        document.getElementById("updated-at").textContent =
+          dateText(data.updated_at, true);
 
         const results = Array.isArray(data.source_results)
           ? data.source_results
           : [];
 
-        const successes = results.filter(
-          (source) => source.status === "ok"
-        ).length;
+        const container = document.getElementById("source-status");
+        container.replaceChildren();
 
-        document.getElementById("total-count").textContent =
-          state.articles.length;
+        for (const source of results) {
+          const status = source.status === "ok"
+            ? `정상 · 반도체 기사 ${source.count}건 처리`
+            : "요청 실패";
 
-        document.getElementById("source-count").textContent =
-          `${successes}/${results.length}`;
+          container.appendChild(
+            element("p", "", `${source.name} — ${status}`)
+          );
+        }
 
-        document.getElementById("updated-at").textContent =
-          data.updated_at
-            ? formatDate(data.updated_at, true)
-            : "정보 없음";
+        const messages = [];
 
-        renderSourceStatus(results);
-        renderWarnings(data, results);
-        renderArticles();
+        if (results.some(source => source.status !== "ok")) {
+          messages.push("일부 출처의 수집 요청이 실패했습니다.");
+        }
+
+        if (visible.some(article => !article.ai_processed)) {
+          messages.push(
+            "일부 기사는 번역·분류 대기 중입니다. 다음 실행에서 순차 처리합니다."
+          );
+        }
+
+        if (visible.length > 0 && summarized.length === 0) {
+          messages.push(
+            "아직 본문 요약이 없습니다. 승인된 본문 수집 도메인과 본문 확보 상태를 확인하세요."
+          );
+        }
+
+        const updated = new Date(data.updated_at).getTime();
+
+        if (
+          Number.isFinite(updated) &&
+          Date.now() - updated > 24 * 60 * 60 * 1000
+        ) {
+          messages.push(
+            "최근 수집 이후 24시간 이상 지났습니다."
+          );
+        }
+
+        const warning = document.getElementById("warning");
+
+        warning.hidden = messages.length === 0;
+        warning.textContent = messages.join(" ");
+
+        render();
 
       } catch (error) {
         newsList.replaceChildren(
-          makeElement(
+          element(
             "div",
             "notice",
-            "뉴스 파일을 불러오지 못했습니다. " +
-            "GitHub Actions를 한 번 실행한 뒤 배포된 사이트를 새로고침해 주세요."
+            "뉴스를 불러오지 못했습니다. GitHub Actions 실행 결과와 news.json을 확인하세요."
           )
         );
 
-        console.error("뉴스 로딩 실패:", error);
+        console.error(error);
+
       } finally {
         newsList.setAttribute("aria-busy", "false");
       }
     }
 
-    document.querySelectorAll(".filters button").forEach((button) => {
+    document.querySelectorAll(".filters button").forEach(button => {
       button.addEventListener("click", () => {
         state.category = button.dataset.category;
 
-        document.querySelectorAll(".filters button").forEach((item) => {
-          const selected = item === button;
-          item.classList.toggle("active", selected);
-          item.setAttribute("aria-pressed", String(selected));
+        document.querySelectorAll(".filters button").forEach(item => {
+          const active = item === button;
+          item.classList.toggle("active", active);
+          item.setAttribute("aria-pressed", String(active));
         });
 
-        renderArticles();
+        render();
       });
     });
 
-    document.getElementById("search").addEventListener("input", (event) => {
-      state.keyword = event.target.value.trim().toLocaleLowerCase();
-      renderArticles();
+    document.getElementById("search").addEventListener("input", event => {
+      state.keyword = event.target.value
+        .trim()
+        .toLocaleLowerCase();
+
+      render();
+    });
+
+    document.getElementById("summary-only").addEventListener("change", event => {
+      state.summaryOnly = event.target.checked;
+      render();
     });
 
     loadNews();
