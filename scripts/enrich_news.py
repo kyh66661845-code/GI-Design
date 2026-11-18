@@ -344,19 +344,28 @@ def main():
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
     data = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
 
-    api_key = os.environ.get("OPENAI_API_KEY")
+       api_key = os.environ.get("GEMINI_API_KEY", "").strip()
 
     if not api_key:
-        print("API 키가 없어 번역·요약을 건너뜁니다.")
+        print(
+            "GEMINI_API_KEY가 없어 번역·분류·요약을 건너뜁니다.",
+            flush=True
+        )
         return
 
-    model = os.environ.get("OPENAI_MODEL", "gpt-4.1-mini")
+    model = os.environ.get(
+        "GEMINI_MODEL",
+        "gemini-2.5-flash"
+    ).strip()
 
     client = OpenAI(
         api_key=api_key,
+        base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
         timeout=60,
         max_retries=1
     )
+
+    print(f"Gemini 연결 설정 완료: {model}", flush=True)
 
     maximum = int(config.get("max_ai_articles_per_run", 10))
     processed = 0
@@ -409,13 +418,32 @@ def main():
                 .replace("+00:00", "Z")
             )
 
-        except Exception as error:
+               except Exception as error:
             # 다음 실행 때 다시 시도할 수 있도록 남깁니다.
             article["ai_status"] = "error"
+
             print(
-                f"번역·요약 실패: {type(error).__name__}",
+                f"번역·요약 실패: "
+                f"{type(error).__name__}: {error}",
                 flush=True
             )
+
+            status_code = getattr(error, "status_code", None)
+
+            if status_code in (401, 403):
+                print(
+                    "API 키 또는 프로젝트의 API 사용 권한을 확인하세요.",
+                    flush=True
+                )
+                break
+
+            if status_code == 429:
+                print(
+                    "Gemini 요청 한도 또는 사용량 한도에 도달했습니다. "
+                    "이번 실행의 추가 처리를 중단합니다.",
+                    flush=True
+                )
+                break
 
         time.sleep(1)
 
