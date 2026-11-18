@@ -344,7 +344,7 @@ def main():
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
     data = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
 
-       api_key = os.environ.get("GEMINI_API_KEY", "").strip()
+    api_key = os.environ.get("GEMINI_API_KEY", "").strip()
 
     if not api_key:
         print(
@@ -418,7 +418,7 @@ def main():
                 .replace("+00:00", "Z")
             )
 
-               except Exception as error:
+        except Exception as error:
             # 다음 실행 때 다시 시도할 수 있도록 남깁니다.
             article["ai_status"] = "error"
 
