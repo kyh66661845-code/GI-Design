@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-19T00:20:03.381120Z",
+  "updated_at": "2026-11-19T15:41:49.471879Z",
   "topic": "semiconductor",
   "source_results": [
     {
       "id": "us-federal",
       "name": "미국 연방기관",
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     {
       "id": "texas",
@@ -30,7 +30,7 @@
       "id": "company-project",
       "name": "반도체 기업 공식 발표",
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     {
       "id": "korean-us-en",
@@ -65,13 +65,41 @@
   ],
   "articles": [
     {
+      "id": "f50620f58936c422107b1e26",
+      "title": "Addressing Remote Access to Advanced Semiconductors - Federal Register (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEZxeHlkaDJRZ3JxQ3VFbjZKNG1DVjREcW5peEZaZzZrdUhfaHc2ZjZHbnJVb1E5MTFoTmwyR2M0VnhOV3FzUDc2dV9HTDYwZjN1LVBHNlNoWGR2eHVvZ0ZfdUlyU0RNbmZaYlN4THpIdlgzSFFEclg0WW5CY2dXMjFYTlVLR3Z2MXdLT1JBUklNcHYzRWxRSW8yNlgyYjFVdThWZTFWdnNrRmZMUnkwNWlSXzZ6QQ?oc=5",
+      "publisher": "Federal Register (.gov)",
+      "published_at": "2026-11-19T10:22:30Z",
+      "first_seen_at": "2026-11-19T15:41:49.471879Z",
+      "last_seen_at": "2026-11-19T15:41:49.471879Z",
+      "categories": [
+        "미국 연방정부"
+      ],
+      "source_ids": [
+        "us-federal"
+      ],
+      "source_names": [
+        "미국 연방기관"
+      ],
+      "kinds": [
+        "공식 기관"
+      ],
+      "allowed_domains": [
+        "commerce.gov",
+        "energy.gov",
+        "federalregister.gov",
+        "nist.gov"
+      ],
+      "ai_status": "error"
+    },
+    {
       "id": "3e91cd0a1d8025e324704ec1",
       "title": "NIST CSF 2.0 Semiconductor Manufacturing Profile Kick-Off Webinar - National Institute of Standards and Technology (.gov)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc2liU01UODludlNLQWFPbEVoVWp5cDkzdGxld2tjUmNFYmV5X0lfZmRxYU9oV19mVjlKOUVqSE0wRnQ4Z3pZMGpxNUlGWnpueGpwNlIwa1JRQjVjTUgzaDBhV2NhRFBLMG9XZTd5MTh4ak1xdU1ITlVkSkM3RHNQd2hKemJDRlRsWGQzdkh0QUc5YXRXTmpWUW9idmJjN3k0MGFhY2VkaHdSZlds?oc=5",
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-11-18T10:41:56Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-19T00:20:03.381120Z",
+      "last_seen_at": "2026-11-19T15:41:49.471879Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -99,7 +127,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-17T02:33:43Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-19T00:20:03.381120Z",
+      "last_seen_at": "2026-11-19T15:41:49.471879Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -127,7 +155,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-10T18:13:51Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-19T00:20:03.381120Z",
+      "last_seen_at": "2026-11-19T15:41:49.471879Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -155,7 +183,7 @@
       "publisher": "TSMC",
       "published_at": "2026-11-10T12:00:00Z",
       "first_seen_at": "2026-11-18T19:14:58.201754Z",
-      "last_seen_at": "2026-11-18T19:21:54.490995Z",
+      "last_seen_at": "2026-11-19T15:41:49.471879Z",
       "categories": [
         "기업·프로젝트"
       ],
@@ -213,7 +241,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-19T00:20:03.381120Z",
+      "last_seen_at": "2026-11-19T15:41:49.471879Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -241,7 +269,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-22T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-19T00:20:03.381120Z",
+      "last_seen_at": "2026-11-19T15:41:49.471879Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -269,7 +297,7 @@
       "publisher": "SK hynix",
       "published_at": "2026-10-21T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-19T00:20:03.381120Z",
+      "last_seen_at": "2026-11-19T15:41:49.471879Z",
       "categories": [
         "한국 기업의 미국 진출"
       ],
