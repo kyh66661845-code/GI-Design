@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T00:36:04.164586Z",
+  "updated_at": "2026-11-20T15:24:09.271958Z",
   "topic": "semiconductor",
   "source_results": [
     {
@@ -36,7 +36,7 @@
       "id": "korean-us-en",
       "name": "한국 기업의 미국 반도체 사업 — 영문",
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     {
       "id": "korean-us-ko",
@@ -69,9 +69,9 @@
       "title": "Addressing Remote Access to Advanced Semiconductors - Federal Register (.gov)",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEZxeHlkaDJRZ3JxQ3VFbjZKNG1DVjREcW5peEZaZzZrdUhfaHc2ZjZHbnJVb1E5MTFoTmwyR2M0VnhOV3FzUDc2dV9HTDYwZjN1LVBHNlNoWGR2eHVvZ0ZfdUlyU0RNbmZaYlN4THpIdlgzSFFEclg0WW5CY2dXMjFYTlVLR3Z2MXdLT1JBUklNcHYzRWxRSW8yNlgyYjFVdThWZTFWdnNrRmZMUnkwNWlSXzZ6QQ?oc=5",
       "publisher": "Federal Register (.gov)",
-      "published_at": "2026-11-19T10:22:30Z",
+      "published_at": "2026-11-19T08:00:00Z",
       "first_seen_at": "2026-11-19T15:41:49.471879Z",
-      "last_seen_at": "2026-11-20T00:36:04.164586Z",
+      "last_seen_at": "2026-11-20T15:24:09.271958Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -111,7 +111,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-11-18T10:41:56Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T00:36:04.164586Z",
+      "last_seen_at": "2026-11-20T15:24:09.271958Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -149,9 +149,9 @@
       "title": "Public Inspection: Addressing Remote Access to Advanced Semiconductors - Federal Register (.gov)",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0s1eWpKSHk3RU9uNDg5eFdxZGZkcFJOQndGa2NvYV9vUHNnY0owVG5KLXl6ejFPbm1kTzZ2TjlqbnNyVUVrOUdHQ0pTMk9zcDFOcGNrU1NOYUxxNWwtRG1ub2ktdHI1VC1EYlkyVHdELVZlUWxNVUpjc2dwUlVEUE42VVhmd0c2Mk1rRk13STBBWnZjcURPSENCS3lTd2ZXaWJQM3oyMUVQRU1UYkQwRkhn?oc=5",
       "publisher": "Federal Register (.gov)",
-      "published_at": "2026-11-17T02:33:43Z",
+      "published_at": "2026-11-17T02:53:48Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-20T00:36:04.164586Z",
+      "last_seen_at": "2026-11-20T15:24:09.271958Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -191,7 +191,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-10T18:13:51Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T00:36:04.164586Z",
+      "last_seen_at": "2026-11-20T15:24:09.271958Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -277,7 +277,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T00:36:04.164586Z",
+      "last_seen_at": "2026-11-20T15:24:09.271958Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -305,7 +305,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-22T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T00:36:04.164586Z",
+      "last_seen_at": "2026-11-20T15:24:09.271958Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -323,32 +323,6 @@
         "energy.gov",
         "federalregister.gov",
         "nist.gov"
-      ],
-      "ai_status": "error"
-    },
-    {
-      "id": "f639be28862ae24f29d03bf4",
-      "title": "[AI Ecosystem] The semiconductor paradigm shifts toward memory - SK hynix",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uY2RnczlYb1hVQ3F5YTJCOGc0ODlrTHBVVjU2QS1zRkdpNTFFdnJpZXBTRS1BVGI2UnF2VkRKc1pIM3U3LWlyQTIxNTNDQWwxRE9FV0dnLTFnaW1VZTNQOGtn?oc=5",
-      "publisher": "SK hynix",
-      "published_at": "2026-10-21T07:00:00Z",
-      "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T00:36:04.164586Z",
-      "categories": [
-        "한국 기업의 미국 진출"
-      ],
-      "source_ids": [
-        "korean-us-en"
-      ],
-      "source_names": [
-        "한국 기업의 미국 반도체 사업 — 영문"
-      ],
-      "kinds": [
-        "기업 공식"
-      ],
-      "allowed_domains": [
-        "news.samsung.com",
-        "news.skhynix.com"
       ],
       "ai_status": "error"
     }
