@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-20T23:58:26.586964Z",
+  "updated_at": "2026-11-21T07:00:45.696028Z",
   "topic": "semiconductor",
   "source_results": [
     {
       "id": "us-federal",
       "name": "미국 연방기관",
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     {
       "id": "texas",
@@ -71,7 +71,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-19T08:00:00Z",
       "first_seen_at": "2026-11-19T15:41:49.471879Z",
-      "last_seen_at": "2026-11-20T23:58:26.586964Z",
+      "last_seen_at": "2026-11-21T07:00:45.696028Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -111,7 +111,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-11-18T10:41:56Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T23:58:26.586964Z",
+      "last_seen_at": "2026-11-21T07:00:45.696028Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -151,7 +151,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-17T02:53:48Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-20T23:58:26.586964Z",
+      "last_seen_at": "2026-11-21T07:00:45.696028Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -191,7 +191,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-10T18:13:51Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T23:58:26.586964Z",
+      "last_seen_at": "2026-11-21T07:00:45.696028Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -301,7 +301,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T23:58:26.586964Z",
+      "last_seen_at": "2026-11-21T07:00:45.696028Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -333,46 +333,6 @@
       "ai_processed": true,
       "hidden": false,
       "ai_updated_at": "2026-11-21T00:02:06.079771Z"
-    },
-    {
-      "id": "c6bbc84eaab167473d90060c",
-      "title": "Department of Commerce Announces Letters of Intent With 4 Companies for $389 Million of R&D Awards to Strengthen America’s Energy Semiconductor Supply Chain - National Institute of Standards and Technology (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEdiaElUdmdRUmROa1VJN00tV3M0SmpBSzRacktERVIyb2FwT2xiT1ZBazFtcGZaX2V2TmtiZ0ZLdWNVNDdKWUhGVFNkaVlQYWlQTVhSWGxtdFdUVlpkMURSc3dmWEVqRHMyZzdEZ0JXdHVEWjZicTlvUV9CU1FWeG1NdlgtVG9VbEwwYnNPbzJpM203VVl6cC0ySzRhZVBveXc4UnRJaXZqUFc0aXVfMVpHa29uMDZV?oc=5",
-      "publisher": "National Institute of Standards and Technology (.gov)",
-      "published_at": "2026-10-22T07:00:00Z",
-      "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T23:58:26.586964Z",
-      "categories": [
-        "미국 연방정부"
-      ],
-      "source_ids": [
-        "us-federal"
-      ],
-      "source_names": [
-        "미국 연방기관"
-      ],
-      "kinds": [
-        "공식 기관"
-      ],
-      "allowed_domains": [
-        "commerce.gov",
-        "energy.gov",
-        "federalregister.gov",
-        "nist.gov"
-      ],
-      "ai_status": "translated",
-      "title_ko": "미 상무부, 미국 에너지 반도체 공급망 강화를 위한 3억 8,900만 달러 규모 R&D 지원 관련 4개 기업과의 의향서 발표 - 미국 국립표준기술연구소(.gov)",
-      "summary_ko": "",
-      "key_points_ko": [],
-      "is_semiconductor": true,
-      "display_categories": [
-        "미국 연방정부"
-      ],
-      "summary_basis": "title_only",
-      "body_status": "link_resolution_failed",
-      "ai_processed": true,
-      "hidden": false,
-      "ai_updated_at": "2026-11-21T00:02:35.995352Z"
     }
   ],
   "ai_model": "gemini-3.8-flash"
