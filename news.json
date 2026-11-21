@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T15:24:09.271958Z",
+  "updated_at": "2026-11-20T23:58:26.586964Z",
   "topic": "semiconductor",
   "source_results": [
     {
@@ -71,7 +71,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-19T08:00:00Z",
       "first_seen_at": "2026-11-19T15:41:49.471879Z",
-      "last_seen_at": "2026-11-20T15:24:09.271958Z",
+      "last_seen_at": "2026-11-20T23:58:26.586964Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -111,7 +111,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-11-18T10:41:56Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T15:24:09.271958Z",
+      "last_seen_at": "2026-11-20T23:58:26.586964Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -151,7 +151,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-17T02:53:48Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-20T15:24:09.271958Z",
+      "last_seen_at": "2026-11-20T23:58:26.586964Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -191,7 +191,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-10T18:13:51Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T15:24:09.271958Z",
+      "last_seen_at": "2026-11-20T23:58:26.586964Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -239,7 +239,19 @@
         "newsroom.intel.com",
         "pr.tsmc.com"
       ],
-      "ai_status": "error"
+      "ai_status": "translated",
+      "title_ko": "TSMC 이사회 결의안",
+      "summary_ko": "",
+      "key_points_ko": [],
+      "is_semiconductor": true,
+      "display_categories": [
+        "기업·프로젝트"
+      ],
+      "summary_basis": "title_only",
+      "body_status": "link_resolution_failed",
+      "ai_processed": true,
+      "hidden": false,
+      "ai_updated_at": "2026-11-21T00:01:03.559014Z"
     },
     {
       "id": "4af7d19d024d704dfd2dc0e7",
@@ -268,7 +280,19 @@
         "newsroom.intel.com",
         "pr.tsmc.com"
       ],
-      "ai_status": "error"
+      "ai_status": "translated",
+      "title_ko": "TSMC 2026년 10월 매출 보고서 | TSMC",
+      "summary_ko": "",
+      "key_points_ko": [],
+      "is_semiconductor": true,
+      "display_categories": [
+        "기업·프로젝트"
+      ],
+      "summary_basis": "title_only",
+      "body_status": "link_resolution_failed",
+      "ai_processed": true,
+      "hidden": false,
+      "ai_updated_at": "2026-11-21T00:01:10.368112Z"
     },
     {
       "id": "1a607af83676a3aae22428ab",
@@ -277,7 +301,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T15:24:09.271958Z",
+      "last_seen_at": "2026-11-20T23:58:26.586964Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -296,7 +320,19 @@
         "federalregister.gov",
         "nist.gov"
       ],
-      "ai_status": "error"
+      "ai_status": "translated",
+      "title_ko": "SRI 6012 정밀 반도체 나노구조 - 미국 국립표준기술원(NIST)",
+      "summary_ko": "",
+      "key_points_ko": [],
+      "is_semiconductor": true,
+      "display_categories": [
+        "미국 연방정부"
+      ],
+      "summary_basis": "title_only",
+      "body_status": "link_resolution_failed",
+      "ai_processed": true,
+      "hidden": false,
+      "ai_updated_at": "2026-11-21T00:02:06.079771Z"
     },
     {
       "id": "c6bbc84eaab167473d90060c",
@@ -305,7 +341,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-22T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-20T15:24:09.271958Z",
+      "last_seen_at": "2026-11-20T23:58:26.586964Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -324,7 +360,19 @@
         "federalregister.gov",
         "nist.gov"
       ],
-      "ai_status": "error"
+      "ai_status": "translated",
+      "title_ko": "미 상무부, 미국 에너지 반도체 공급망 강화를 위한 3억 8,900만 달러 규모 R&D 지원 관련 4개 기업과의 의향서 발표 - 미국 국립표준기술연구소(.gov)",
+      "summary_ko": "",
+      "key_points_ko": [],
+      "is_semiconductor": true,
+      "display_categories": [
+        "미국 연방정부"
+      ],
+      "summary_basis": "title_only",
+      "body_status": "link_resolution_failed",
+      "ai_processed": true,
+      "hidden": false,
+      "ai_updated_at": "2026-11-21T00:02:35.995352Z"
     }
   ],
   "ai_model": "gemini-3.8-flash"
