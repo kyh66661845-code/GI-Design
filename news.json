@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-21T07:00:45.696028Z",
+  "updated_at": "2026-11-21T19:11:48.536097Z",
   "topic": "semiconductor",
   "source_results": [
     {
       "id": "us-federal",
       "name": "미국 연방기관",
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     {
       "id": "texas",
@@ -71,7 +71,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-19T08:00:00Z",
       "first_seen_at": "2026-11-19T15:41:49.471879Z",
-      "last_seen_at": "2026-11-21T07:00:45.696028Z",
+      "last_seen_at": "2026-11-21T19:11:48.536097Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -151,7 +151,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-17T02:53:48Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-21T07:00:45.696028Z",
+      "last_seen_at": "2026-11-21T19:11:48.536097Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -191,7 +191,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-10T18:13:51Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-21T07:00:45.696028Z",
+      "last_seen_at": "2026-11-21T19:11:48.536097Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -301,7 +301,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-10-28T07:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-21T07:00:45.696028Z",
+      "last_seen_at": "2026-11-21T19:11:48.536097Z",
       "categories": [
         "미국 연방정부"
       ],
