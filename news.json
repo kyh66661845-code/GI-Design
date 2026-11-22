@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-22T06:42:05.843128Z",
+  "updated_at": "2026-11-22T19:33:46.070238Z",
   "topic": "semiconductor",
   "source_results": [
     {
       "id": "us-federal",
       "name": "미국 연방기관",
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     {
       "id": "texas",
@@ -71,7 +71,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-19T08:00:00Z",
       "first_seen_at": "2026-11-19T15:41:49.471879Z",
-      "last_seen_at": "2026-11-22T06:42:05.843128Z",
+      "last_seen_at": "2026-11-22T19:33:46.070238Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -151,7 +151,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-17T02:53:48Z",
       "first_seen_at": "2026-11-18T18:05:00.641384Z",
-      "last_seen_at": "2026-11-22T06:42:05.843128Z",
+      "last_seen_at": "2026-11-22T19:33:46.070238Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -191,7 +191,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-10T18:13:51Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-22T06:42:05.843128Z",
+      "last_seen_at": "2026-11-22T19:33:46.070238Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -210,7 +210,19 @@
         "federalregister.gov",
         "nist.gov"
       ],
-      "ai_status": "error"
+      "ai_status": "translated",
+      "title_ko": "미국의 마이크로일렉트로닉스 중심 재정립 - 미국 에너지부",
+      "summary_ko": "",
+      "key_points_ko": [],
+      "is_semiconductor": true,
+      "display_categories": [
+        "미국 연방정부"
+      ],
+      "summary_basis": "title_only",
+      "body_status": "link_resolution_failed",
+      "ai_processed": true,
+      "hidden": false,
+      "ai_updated_at": "2026-11-22T19:35:05.518817Z"
     },
     {
       "id": "90eca3602b591d46205bea7a",
