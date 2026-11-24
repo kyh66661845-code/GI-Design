@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-23T23:50:25.468224Z",
+  "updated_at": "2026-11-24T09:50:57.407806Z",
   "topic": "semiconductor",
   "source_results": [
     {
       "id": "us-federal",
       "name": "미국 연방기관",
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     {
       "id": "texas",
@@ -71,7 +71,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-19T08:00:00Z",
       "first_seen_at": "2026-11-19T15:41:49.471879Z",
-      "last_seen_at": "2026-11-23T23:50:25.468224Z",
+      "last_seen_at": "2026-11-24T09:50:57.407806Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -191,7 +191,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-10T18:13:51Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-23T23:50:25.468224Z",
+      "last_seen_at": "2026-11-24T09:50:57.407806Z",
       "categories": [
         "미국 연방정부"
       ],
