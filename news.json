@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:28:22.110312Z",
+  "updated_at": "2026-11-27T08:22:31.957836Z",
   "topic": "semiconductor",
   "source_results": [
     {
@@ -71,7 +71,7 @@
       "publisher": "Federal Register (.gov)",
       "published_at": "2026-11-19T08:00:00Z",
       "first_seen_at": "2026-11-19T15:41:49.471879Z",
-      "last_seen_at": "2026-11-26T21:28:22.110312Z",
+      "last_seen_at": "2026-11-27T08:22:31.957836Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -111,7 +111,7 @@
       "publisher": "National Institute of Standards and Technology (.gov)",
       "published_at": "2026-11-18T10:41:56Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-26T21:28:22.110312Z",
+      "last_seen_at": "2026-11-27T08:22:31.957836Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -191,7 +191,7 @@
       "publisher": "Department of Energy (.gov)",
       "published_at": "2026-11-13T08:00:00Z",
       "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-26T21:28:22.110312Z",
+      "last_seen_at": "2026-11-27T08:22:31.957836Z",
       "categories": [
         "미국 연방정부"
       ],
@@ -305,46 +305,6 @@
       "ai_processed": true,
       "hidden": false,
       "ai_updated_at": "2026-11-21T00:01:10.368112Z"
-    },
-    {
-      "id": "1a607af83676a3aae22428ab",
-      "title": "SRI 6012 Precision Semiconductor Nanostructures - National Institute of Standards and Technology (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPazFoVHpNWWhNaVlMX0NXTHczbE14enY4aGFXcFhUbDNWaWF3QW54Q3luTnJlOWNFSWdPN2MteW5BVnl0X2h0TEVISE0ySGthTUFtdTZIaWFqbjNES0ZwRFBYWWpiY1kwczRFZU1xbmp6SW5wbTZuRlJmN28xcFNEZl9xS3hGb2tuR2hCZDhlWWQ1U1hvUDN5VUk0MEYwNTBN?oc=5",
-      "publisher": "National Institute of Standards and Technology (.gov)",
-      "published_at": "2026-10-28T07:00:00Z",
-      "first_seen_at": "2026-11-18T19:13:51.125206Z",
-      "last_seen_at": "2026-11-22T06:42:05.843128Z",
-      "categories": [
-        "미국 연방정부"
-      ],
-      "source_ids": [
-        "us-federal"
-      ],
-      "source_names": [
-        "미국 연방기관"
-      ],
-      "kinds": [
-        "공식 기관"
-      ],
-      "allowed_domains": [
-        "commerce.gov",
-        "energy.gov",
-        "federalregister.gov",
-        "nist.gov"
-      ],
-      "ai_status": "translated",
-      "title_ko": "SRI 6012 정밀 반도체 나노구조 - 미국 국립표준기술원(NIST)",
-      "summary_ko": "",
-      "key_points_ko": [],
-      "is_semiconductor": true,
-      "display_categories": [
-        "미국 연방정부"
-      ],
-      "summary_basis": "title_only",
-      "body_status": "link_resolution_failed",
-      "ai_processed": true,
-      "hidden": false,
-      "ai_updated_at": "2026-11-21T00:02:06.079771Z"
     }
   ],
   "ai_model": "gemini-3.8-flash"
